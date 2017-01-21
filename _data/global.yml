@@ -2,9 +2,9 @@
 title: 'Dani Pindado Blog'
 description: 'Dani Pindado Blog Description'
 url: 'https://danipindado.github.io' # the base hostname & protocol for your site
-footer_text: 'This text is footer text. Footer text goes here.'
+footer_text: 'All rights reserved © 2017 Dani Pindado'
 
 # Admin Settings
-admin_name: 'Nicholas Cerminara'
-admin_email: 'nick@scotch.io'
+admin_name: 'Dani Pindado'
+admin_email: 'daniel.pindado@gmail.com'
 
