@@ -12,4 +12,5 @@ lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 an
 Pool swim is a 
 some text and [here is possible to download the file in PDF][1]
 
+
 [1]:{{ site.url }}/downloads/pool_swim_user_guide.pdf
