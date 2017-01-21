@@ -8,7 +8,7 @@ comments: true
 lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 and FR630'
 ---
 
-![made by Freepik from www.flaticon.com](/image/swimming-pool.png){:class="img-responsive"}
+![made by Freepik from www.flaticon.com](/images/swimming-pool.png){:class="img-responsive"}
 
 Pool swim is a 
 some text and [here is possible to download the file in PDF][1]
