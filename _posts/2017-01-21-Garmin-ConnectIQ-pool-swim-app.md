@@ -2,8 +2,9 @@
 layout: inner
 title: 'Garmin ConnectIQ Pool Swim App'
 date: 2017-01-21 06:18:34
-categories: blog development
-tags: cats dogs code
+categories: apps
+tags: apps garmin connectiq
+comments: true
 featured_image: 'http://placekitten.com/1500/1000'
 lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 and FR630'
 ---
