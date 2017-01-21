@@ -10,7 +10,6 @@ lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 an
 ---
 
 [1]
-{% include Freepik.html %}
 
 Pool swim is a 
 some text and [here is possible to download the file in PDF][2]
