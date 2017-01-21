@@ -2,7 +2,7 @@
 title: 'Dani Pindado Blog'
 description: 'Dani Pindado Blog Description'
 url: 'https://danipindado.github.io' # the base hostname & protocol for your site
-footer_text: 'All rights reserved &#xa9 2017 Dani Pindado'
+footer_text: '  All rights reserved &copy; 2017 Dani Pindado'
 
 # Admin Settings
 admin_name: 'Dani Pindado'
