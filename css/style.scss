@@ -4,8 +4,8 @@
 @import '../_sass/syntax-highlighting';
 
 
-$scotch-primary: rgb(255, 69, 69);
-$scotch-secondary: #FF7B7B;
+$scotch-primary: rgb(69, 69, 255);
+$scotch-secondary: #7B7BFF;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
@@ -58,7 +58,7 @@ nav.navbar {
         }
 
         &:hover i {
-            color: rgb(255, 111, 111);
+            color: rgb(111, 111,255);
             transform: scale(1.35);
         }
     }
