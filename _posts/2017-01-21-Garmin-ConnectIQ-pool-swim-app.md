@@ -25,8 +25,8 @@ you can find the user guide [here]({{ site.url }}/downloads/pool_swim_user_guide
 I know user guides are no fun. But I really recommend you to take a look. Most of the answers users have asked me since I released the apps are answered there. 
 
 Just in case you don't read it, just a couple of hints:
-* the app, unlike most of you think, does not work on accelerometers. it works on the compass. 
-* For proper function, the app needs to figure out your pool's orientation. This happens during the first 10 seconds of the activity. **Please do not press start if you are not going to swim inmmediately**. Just saying. 
++ the app, unlike most of you think, does not work on accelerometers. it works on the compass. 
++ For proper function, the app needs to figure out your pool's orientation. This happens during the first 10 seconds of the activity. **Please do not press start if you are not going to swim inmmediately**. Just saying. 
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
