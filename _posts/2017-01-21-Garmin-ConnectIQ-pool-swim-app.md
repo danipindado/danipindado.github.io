@@ -14,14 +14,14 @@ Pool swim is a [ConnectIQ app](https://apps.garmin.com/es-ES/apps/f134a024-6ee4-
 
 My previous running watch was a Suunto ambit2s. I used to combine the running watch with a Pebble smartwatch which I used as my day-to-day watch. 
 
-But, the Pebble stopped working, and, feeling that the ambit was more watch that I needed (I am just a recreational runner), I got rid of it and bought a Garmin FR230 to fullfill both needs. Besides i am a tech geek and ConnectIQ platform was appealing. 
+But, the Pebble stopped working, and, feeling that the ambit was more watch that I needed (I am just a recreational runner), I got rid of it and bought a Garmin FR230 to fullfill both needs. Besides I am a tech geek and ConnectIQ platform was appealing. 
 
 Then this year I have begun to swim... and given the lack of swim support of the FR230, I found the perfect excuse to write my first ConnectIQ app.
 
 The app provides support for FR230, FR235 and FR630.
 These are watches meant for runners. Therefore, Garmin did not include the swim pool mode. 
 
-you can find the user guide [here][{{ site.url }}/downloads/pool_swim_user_guide.pdf].
+you can find the user guide [here]({{ site.url }}/downloads/pool_swim_user_guide.pdf) .
 I know user guides are no fun. But I really recommend you to take a look. Most of the answers users have asked me since I released the apps are answered there. 
 
 Just in case you don't read it, just a couple of hints:
