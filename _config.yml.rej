@@ -1,0 +1,10 @@
+diff a/_config.yml b/_config.yml	(rejected hunks)
+@@ -23,7 +23,7 @@
+ # Plugins
+ whitelist: []
+ gems:      [jekyll-paginate]
+-
++ - jemoji
+ # Conversion
+ markdown:    kramdown
+ highlighter: rouge
