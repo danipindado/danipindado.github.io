@@ -8,7 +8,7 @@ lead_text: 'Privacy Policy'
 
 Last updated: 22.1.2017
 
-I take user privacy very seriously. Absolutely no information submitted to me via the contact form, comments form, or DCR mailing list will be given out, sold, or distributed to any outside organization. Your contact information is used to contact you (the visitor).
+I take user privacy very seriously. Absolutely no information submitted to me via the contact form or comments form will be given out, sold, or distributed to any outside organization unless you ask me to. Your contact information is used to contact you (the visitor).
 
 I use third-party advertising companies to serve ads when you visit the Web site. These third-party advertising companies may use advertising technologies such as cookies, web beacons and other similar advertising technologies.
 

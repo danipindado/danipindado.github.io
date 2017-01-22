@@ -1,5 +1,6 @@
 main:
     - { url: '/', text: 'Blog' }
     - { url: '/about', text: 'About' }
+    - { url: '/contact', text: 'Contact' }
     - { url: '/privacy-policy', text: 'Privacy Policy' }
     
