@@ -23,7 +23,7 @@ unpublished: false
 # Plugins
 whitelist: []
 gems:      [jekyll-paginate]
-
+ - jemoji
 # Conversion
 markdown:    kramdown
 highlighter: rouge

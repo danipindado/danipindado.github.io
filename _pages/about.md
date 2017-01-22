@@ -2,39 +2,10 @@
 layout: inner
 title: About
 permalink: /about/
-lead_text: 'this is the lead text'
+lead_text: 'About page'
 ---
 
-We never thought of findin' a place where we belong. Don't have to stand alone, we'll never let you fall. Don't need permission to decide what you believe. You gotta learn something when we meet you after school. I said jump, down on Jump Street. I said jump, down on Jump Street. Your friends will be there when your back is to the wall. You'll find you'll need us cause there's no one else to call. When it was hopeless a decision is what you need. You'd better be ready cause' your runnin' outta time. Say jump, 21 Jump, Street.
+I am a spanish guy living in Germany with a passion for technology and programming.
+When I became 40 I begun to run, probably [a sign of a midlife crisis](http://www.dailymail.co.uk/femail/article-2643854/Are-running-marathon-getting-facelift-tattoo-Youre-probably-grip-mid-life-crisis.html) :)
 
-{% highlight javascript %}
-function meow() {
-    return 'meow';
-}
-
-function bark() {
-    return 'woof';
-}
-
-function getRandomAnimal() {
-
-    var animals = [
-        'cat',
-        'dog',
-        'hippo',
-        'lion',
-        'bear',
-        'zebra'
-    ];
-
-    return animals[Math.floor(Math.random()*animals.length)];
-}
-
-console.log(meow());
-console.log(bark());
-console.log(getRandomAnimal());
-{% endhighlight %}
-
-They arrived in fifty mother ships, offering their friendship and advance technology to Earth. Skeptical of the visitors, Mike Donovan and Juliet Parrish infiltrated their ranks and soon discovered some startling secrets. The resistance is all that stands between us... and the visitors.
-
-Once in every lifetime, comes a love like this. Oh I need you, you need me, oh my darling can't you see. Young Ones. Darling we're the Young Ones. Young Ones. Shouldn't be afraid. To live, love, there's a song to be sung. Cause we may not be the Young Ones very long.
+Writing apps for wearables was the obvious step. I begun writing apps for Suunto watches, and since sometime I have begun writing apps using Garmin's ConnectIQ platform. 
