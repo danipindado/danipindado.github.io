@@ -22,3 +22,5 @@ Feel free to post any questions below. Please note that you can post as a guest,
 
 
 [1]:{{ site.url }}/downloads/pool_swim_user_guide.pdf
+
+{% include amazoncom.html %}
