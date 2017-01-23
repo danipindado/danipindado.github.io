@@ -28,7 +28,8 @@ Just in case you don't read it, just a couple of hints:
 
 
  + the app, unlike most of you think, does not work on accelerometers. it works on the compass. 
- + For proper function, the app needs to figure out your pool's orientation. This happens during the first 10 seconds of the activity. **Please do not press start if you are not going to swim inmmediately**. Just saying. 
+ + For proper function, the app needs to figure out your pool's orientation. This happens during the first 10 seconds of the activity. **Please do not press start if you are not going to swim inmmediately**. Just saying.
+ + **When you have a short break, stop the activity** (when resting, adjusting goggles, ...). Otherwise it is likely that the compass will eventually trigger a lap. 
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
