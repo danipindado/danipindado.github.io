@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Pool Swim app v4.2 released
-date: {}
+date: 2017-01-26T00:00:00.000Z
 categories: apps
 tags: apps garmin connectiq
 comments: true
