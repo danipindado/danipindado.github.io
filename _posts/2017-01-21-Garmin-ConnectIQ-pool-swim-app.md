@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Garmin ConnectIQ Pool Swim App
-date: {}
+date: 2017-01-21T00:00:00.000Z
 categories: apps
 tags: apps garmin connectiq
 comments: true
