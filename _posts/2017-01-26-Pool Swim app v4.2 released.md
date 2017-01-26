@@ -1,11 +1,12 @@
 ---
 layout: inner
-title: 'Pool Swim app v4.2 released'
-date: 2017-01-21 06:18:34
+title: Pool Swim app v4.2 released
+date: {}
 categories: apps
 tags: apps garmin connectiq
 comments: true
-lead_text: 'New UI for FR630'
+lead_text: New UI for FR630
+published: true
 ---
 Since version 2.0 I have been supporting FR630. 
 
@@ -31,7 +32,7 @@ We have come up with this solution. I hope FR630 users will find it convenient:
 
 The [user guide](https://danipindado.github.io/downloads/pool_swim_user_guide.pdf) has been updated.
 
-Other than that, not many new changes in this version. There are a couple of improvements to improve how pace charts are displayed in [Sport Tracks](www.sporttracks.mobi). Thanks to Sport Tracks guys for their support.
+Other than that, not many new changes in this version. There are a couple of changes to improve how pace charts are displayed in [Sport Tracks](www.sporttracks.mobi). Thanks to Sport Tracks guys for their support.
 
 I have been collecting accelerometer data. So I will begin to work in autopause detection.  
 
