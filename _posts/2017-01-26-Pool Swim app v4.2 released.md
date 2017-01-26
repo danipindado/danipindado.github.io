@@ -23,11 +23,11 @@ We have come up with this solution. I hope FR630 users will find it convenient:
 ![swimming-pool-image](/images/FR630.png){:class="img-responsive"}
 
 
-**button 1(backlight) has the typical behaviour
-**button 2(back) leaves the app if the activity is stopped. But also toggles between data screens 1 and 2 during an activity.
-**button 3(select) starts/stops the activity
-**button 4(lap) trigers an interval within an actity. But also enables main menu if activity is paused.
-**Touch screen is usually locked. It will only get enabled to handle menus (main menu or save/discard menu). Here you will use the swipe & tap gestures to deal with the different options. This is something you will not typically do in the water.
++ button 1(backlight) has the typical behaviour
++ button 2(back) leaves the app if the activity is stopped. But also toggles between data screens 1 and 2 during an activity.
++ button 3(select) starts/stops the activity
++ button 4(lap) trigers an interval within an actity. But also enables main menu if activity is paused.
++ Touch screen is usually locked. It will only get enabled to handle menus (main menu or save/discard menu). Here you will use the swipe & tap gestures to deal with the different options. This is something you will not typically do in the water.
 
 The [user guide](https://danipindado.github.io/downloads/pool_swim_user_guide.pdf) has been updated.
 
