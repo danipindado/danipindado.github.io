@@ -5,6 +5,7 @@ date: 2017-01-26T00:00:00.000Z
 categories: apps
 tags: apps garmin connectiq
 comments: true
+ads: true
 lead_text: New UI for FR630
 published: true
 ---
@@ -43,6 +44,4 @@ Last, but not least, I offer ads and affiliate links on the site. These links he
 
 Cheerio! 
 
-{% include amazoncom.html %}
-{% include adsense.html %}
 
