@@ -40,3 +40,5 @@ Last, but not least, I offer ads and affiliate links on the site. These links he
 Cheerio! 
 
 {% include amazoncom.html %}
+{% include adsense.html %}
+
