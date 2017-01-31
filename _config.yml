@@ -72,9 +72,9 @@ include: ['_pages']
 
 #prose.io settings
 prose:
-  rooturl: "source"
+  rooturl: "_posts"
   metadata:
-    "source/_posts": |
+    "_posts": |
       layout: inner
       title: "Title"
       date: "CURRENT_DATETIME"
@@ -83,4 +83,3 @@ prose:
       categories: 
       tags:
       published: true
-     
