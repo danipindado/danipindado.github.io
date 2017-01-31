@@ -70,3 +70,49 @@ kramdown:
 
 
 include: ['_pages']
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://danipindado.github.io'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "înner"
+      - name: "title"
+        field:
+          element: "text"
+          value: ""
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "apps"
+              value: "apps"
+            - name: "gadgets"
+              value: "gadgets"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "garmin"
+              value: "garmin"
+            - name: "suunto"
+              value: "suunto"
+            - name: "suunto"
+              value: "suunto"              
