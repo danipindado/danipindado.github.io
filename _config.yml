@@ -71,38 +71,38 @@ kramdown:
 include: ['_pages']
 
 prose:
-  rooturl: '_posts'
-  siteurl: "http://danipindado.github.io/"
-  media: "images"
+  rooturl: ''
+  siteurl: 'http://danipindado.github.io'
+  media: 'images'
   metadata:
     _posts:
       - name: "layout"
         field:
           label: "layout"
           element: "text"
-          value: "inner"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title of the post"
-          value: "My title"
+          value: "post"
       - name: "date"
         field:
-          element: "hidden"
-          value: CURRENT_DATETIME
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-      - name: "category"
-        field:
-          label: "category, e.g. article"
+          label: "date"
           element: "text"
-          value: "article"
-      - name: "tags"
+          value: "CURRENT_DATETIME"
+      - name: "author"
         field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable: true
+          label: "author"
+          element: "text"
+          value: "Hywel"
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          placeholder: "Enter categories"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
+      - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter metadata"
