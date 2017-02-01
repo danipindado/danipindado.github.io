@@ -12,12 +12,11 @@ Living in Germany, days are very short in winter. So the app was very handy to f
 
 You can find the app [here](https://apps.garmin.com/es-ES/apps/d4253bb4-1aaf-4538-be8f-5e2e864708ea#0). 
 
-![sunset (2).png]({{site.baseurl}}/images/sunset (2).png){width="400px"}
-<img src="{{site.baseurl}}/images/sunset (2).png" width="300">
+<img src="{{site.baseurl}}/images/sunset (2).png" width="400">
 {% include freepik.html %}
 
 If you are curious how the app works, take a look at [this c program](http://souptonuts.sourceforge.net/code/sunrise.c.html)  by [Mike Chirico](http://souptonuts.sourceforge.net/) which calculates sunrise & sunset time for given gps coordinates. 
-
+<img src="{{site.baseurl}}/images/sunset (2).png" width="400">
 The app is actually a data field. This means, that you can use this field in any activity you have available in your watch. You just need to add the data field to one of the data screens.
 
 This great video by [Moxy monitor team](http://www.moxymonitor.com/) shows you how to add a ConnectIQ data field to an activity screen:
@@ -27,11 +26,11 @@ Once you have installed the app, there are some settings you can deal with.
 
 Settings can be adjusted by using garmin express (you have to connect your watch to your PC), or, my favourite method, Garmin Connect app in your smartphone. 
 In GC app, open Garmin devices menu, and browse till your installed data fields, where you will find Sunset/Sunrise app:
-![Screenshot_2017-01-31-05-36-10.png]({{site.baseurl}}/images/Screenshot_2017-01-31-05-36-10.png){width="400px"}
-
+<img src="{{{site.baseurl}}/images/Screenshot_2017-01-31-05-36-10.png" width="400">
 
 In the configuration menu you will find these three settings:
-![Screenshot_2017-01-31-05-36-22.png]({{site.baseurl}}/images/Screenshot_2017-01-31-05-36-22.png){width="400px"}
+<img src="{{{site.baseurl}}/images/Screenshot_2017-01-31-05-36-22.png" width="400">
+
 
 
 -**24h format**: obvious, isn't it? Depending on the setting, you will see 17:45 or 5:45PM. 
