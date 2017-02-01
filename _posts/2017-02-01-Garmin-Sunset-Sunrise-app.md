@@ -17,7 +17,7 @@ You can find the app [here](https://apps.garmin.com/es-ES/apps/d4253bb4-1aaf-453
 {% include freepik.html %}
 
 If you are curious how the app works, take a look at [this c program](http://souptonuts.sourceforge.net/code/sunrise.c.html)  by [Mike Chirico](http://souptonuts.sourceforge.net/) which calculates sunrise & sunset time for given gps coordinates. 
-<img src="{{site.baseurl}}/images/sunset (2).png" width="400">
+
 The app is actually a data field. This means, that you can use this field in any activity you have available in your watch. You just need to add the data field to one of the data screens.
 
 This great video by [Moxy monitor team](http://www.moxymonitor.com/) shows you how to add a ConnectIQ data field to an activity screen:
