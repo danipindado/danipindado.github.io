@@ -70,16 +70,38 @@ kramdown:
 
 include: ['_pages']
 
-#prose.io settings
 prose:
-  rooturl: "_posts"
+  siteurl: "https://danipindado.github.io/"
+  media: "images"
   metadata:
-    "_posts": |
-      layout: inner
-      title: "Title"
-      date: "CURRENT_DATETIME"
-      comments: true
-      ads: true
-      categories: 
-      tags:
-      published: true
+    _posts:
+      - name: "layout"
+        field:
+          label: "layout"
+          element: "text"
+          value: "inner"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title of the post"
+          value: "My title"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "category"
+        field:
+          label: "category, e.g. article"
+          element: "text"
+          value: "article"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
