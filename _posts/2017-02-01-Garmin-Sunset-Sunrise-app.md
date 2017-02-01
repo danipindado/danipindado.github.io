@@ -5,6 +5,8 @@ published: true
 title: Garmin Sunset/Sunrise App
 categories: apps
 tags: garmin apps connectiq
+ads: true
+comments: true
 ---
 
 One of the things I missed when I replaced my Suunto ambit2s by a Garmin FR230, was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset). 
