@@ -71,7 +71,7 @@ kramdown:
 include: ['_pages']
 
 prose:
-  siteurl: "https://danipindado.github.io/"
+  siteurl: "http://danipindado.github.io/"
   media: "images"
   metadata:
     _posts:
