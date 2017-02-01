@@ -15,7 +15,8 @@ I found [this](http://souptonuts.sourceforge.net/code/sunrise.c.html) c program 
 The app is actually a data field. This means, that you can use this field in any activity you have available in your watch. You just need to add the data field to one of the data screens.
 
 You can 
-{% include youtubeplayer.html id=rjnrgGX79ag start=480 %}
+{% include youtubeplayer.html id=rjnrgGX79ag %}
+
 
 
 Pool swim is a [ConnectIQ app](https://apps.garmin.com/es-ES/apps/f134a024-6ee4-47d3-8aec-3a397e3c9733) for the Garmin FR230, FR235 and FR630. 
@@ -47,7 +48,4 @@ Remember that you don't need to create a Disqus account in order to comment: jus
 
 Last, but not least, I offer ads and affiliate links on the site. These links help me get more gadgets that I can show you here :) . And remember that you will still pay the same price for the product. 
 
-Cheerio! 
-
-
-
+Cheerio!
