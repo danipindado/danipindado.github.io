@@ -15,7 +15,7 @@ I found [this](http://souptonuts.sourceforge.net/code/sunrise.c.html) c program 
 The app is actually a data field. This means, that you can use this field in any activity you have available in your watch. You just need to add the data field to one of the data screens.
 
 You can 
-{% include youtubeplayer.html id="rjnrgGX79ag" %}
+{% include youtubeplayer.html id="rjnrgGX79ag" start=480 %}
 
 
 
