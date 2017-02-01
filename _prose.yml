@@ -6,31 +6,25 @@ prose:
     _posts:
       - name: "layout"
         field:
-          label: "layout"
+          element: "hidden"
+          value: "inner"
+      - name: "title"
+        field:
+          label: "title"
           element: "text"
-          value: "post"
+          value: "title"
       - name: "date"
         field:
           label: "date"
           element: "text"
           value: "CURRENT_DATETIME"
-      - name: "author"
-        field:
-          label: "author"
-          element: "text"
-          value: "Hywel"
       - name: "categories"
         field:
           label: "categories"
           element: "text"
           placeholder: "Enter categories"
-      - name: "excerpt"
+      - name: "tags"
         field:
-          label: "excerpt"
+          label: "tags"
           element: "text"
-          placeholder: "Enter excerpt"
-      - name: "meta"
-        field:
-          label: "meta"
-          element: "text"
-          placeholder: "Enter metadata"
+          placeholder: "Enter tags"
