@@ -2,7 +2,7 @@
 layout: inner
 date: '2017-02-01 23:32 +0100'
 published: false
-title: title
+title: Garmin Sunset/Sunrise App
 categories: apps
 tags: garmin apps connectiq
 ---
