@@ -26,12 +26,15 @@ These are watches meant for runners. Therefore, Garmin did not include the swim 
 you can find the user guide [here]({{ site.url }}/downloads/pool_swim_user_guide.pdf) .
 I know user guides are no fun. But I really recommend you to take a look. Most of the answers users have asked me since I released the apps are answered there. 
 
+In [this new post](https://danipindado.github.io/Pool-Swim-app-v4.2-released.html) I have described how to buttons work for the FR630 after v4.2. I disabled the touch screen for better usability. 
+
 Just in case you don't read it, just a couple of hints:
 
 
  + the app, unlike most of you think, does not work on accelerometers. it works on the compass. 
  + For proper function, the app needs to figure out your pool's orientation. This happens during the first 10 seconds of the activity. **Please do not press start if you are not going to swim inmmediately**. Just saying.
  + **When you have a short break, press stop to pause the activity** (f.i. when resting, adjusting goggles, ...). Otherwise it is likely that the compass will eventually trigger a lap. 
+ + **The app tracks heart rate**. This is something no very common out there. For the FR235 obviously the optical HRM is being used. For FR230 and FRE630 you need an optical HRM. I am using [Scosche Rhythm+](https://www.amazon.com/Scosche-RHYTHM-Heart-Monitor-Armband/dp/B00JQHTJS2/ref=sr_1_2_a_it?ie=UTF8&qid=1486049115&sr=8-2&keywords=Scosche+Rhythm%2B). I wear it around the wrist, close to the watch, and i am very happy with it. 
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
