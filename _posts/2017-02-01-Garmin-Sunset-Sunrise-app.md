@@ -9,7 +9,7 @@ ads: true
 comments: true
 ---
 
-One of the things I missed when I replaced my [Suunto ambit2s](https://www.amazon.com/Suunto-Ambit2-Graphite-Watch-SS019208000/dp/B00C3R9YY6/ref=sr_1_1?ie=UTF8&qid=1486048698&sr=8-1&keywords=ambit+2s) by a [Garmin FR230](https://www.amazon.com/Garmin-Forerunner-230-Black-White/dp/B016PAPI3W/ref=sr_1_1?ie=UTF8&qid=1486048722&sr=8-1&keywords=fr230), was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset). 
+One of the things I missed when I replaced my [Suunto ambit2s](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.Xsuunto+ambit2s.TRS0&_nkw=suunto+ambit2s&_sacat=0) by a [Garmin FR230](https://www.amazon.com/Garmin-Forerunner-230-Black-White/dp/B016PAPI3W/ref=sr_1_1?ie=UTF8&qid=1486048722&sr=8-1&keywords=fr230), was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset). 
 I usually jog at night, so I tend to look for illuminated places. Only during weekends, if I am lucky, I get to run in the forest. 
 Living in Germany, days are very short in winter. So the app was very handy to figure out how much time left I had before it got dark. 
 
