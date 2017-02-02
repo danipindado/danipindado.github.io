@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Garmin ConnectIQ Pool Swim App
-date: 2017-01-21T00:00:00.000Z
+date: 'Sat Jan 21 2017 01:00:00 GMT+0100 (Central Europe Standard Time)'
 categories: apps
 tags: apps garmin connectiq
 ads: true
@@ -20,7 +20,7 @@ But, the Pebble stopped working, and, feeling that the ambit was more watch that
 
 Then this year I have begun to swim... and given the lack of swim support of the FR230, I found the perfect excuse to write my first ConnectIQ app.
 
-The app provides support for FR230, FR235 and FR630.
+The app provides support for [FR230](https://www.amazon.com/Garmin-Forerunner-230-Black-White/dp/B016PAPI3W/ref=sr_1_1?ie=UTF8&qid=1486048592&sr=8-1&keywords=B016PAPI3W), [FR235](https://www.amazon.com/Garmin-Forerunner-235-Black-Gray/dp/B0160BC1FO/ref=sr_1_1?ie=UTF8&qid=1486048616&sr=8-1&keywords=fr235) and [FR630](https://www.amazon.com/Garmin-Forerunner-630-Midnight-Blue/dp/B016VC1PTU/ref=sr_1_1?ie=UTF8&qid=1486048654&sr=8-1&keywords=fr630).
 These are watches meant for runners. Therefore, Garmin did not include the swim pool mode. 
 
 you can find the user guide [here]({{ site.url }}/downloads/pool_swim_user_guide.pdf) .
@@ -38,7 +38,4 @@ Remember that you don't need to create a Disqus account in order to comment: jus
 
 Last, but not least, I offer ads and affiliate links on the site. These links help me get more gadgets that I can show you here :) . And remember that you will still pay the same price for the product. 
 
-Cheerio! 
-
-
-
+Cheerio!
