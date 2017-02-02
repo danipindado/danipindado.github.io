@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Pool Swim app v4.2 released
-date: 2017-01-26T00:00:00.000Z
+date: 'Thu Jan 26 2017 01:00:00 GMT+0100 (Central Europe Standard Time)'
 categories: apps
 tags: apps garmin connectiq
 comments: true
@@ -20,7 +20,7 @@ Within ConnectIQ developers cannot figure out how many people with a certain wat
 A couple of weeks ago a spanish user contacted me. As expected, the behavior of the watch under water was not ideal. Dealing with the screen was driving him nuts. 
 He has helped me to figure out what the most convenient key combination is. The FR630 has just 4 buttons (vs FR230/FR235, which have 5). To make things worst, the function of the buttons is slightly different. In FR23x lap and back functions are mapped to just one button, while in the FR630 garmin decided to split them in two different buttons.
 
-We have come up with this solution. I hope FR630 users will find it convenient:
+We have come up with this solution. I hope [FR630](https://www.amazon.com/Garmin-Forerunner-630-Midnight-Blue/dp/B016VC1PTU/ref=sr_1_1?ie=UTF8&qid=1486048832&sr=8-1&keywords=fr630) users will find it convenient:
 
 ![swimming-pool-image](/images/FR630.png){:class="img-responsive"}
 
@@ -33,6 +33,8 @@ We have come up with this solution. I hope FR630 users will find it convenient:
 
 The [user guide](https://danipindado.github.io/downloads/pool_swim_user_guide.pdf) has been updated.
 
+[This](https://danipindado.github.io/Garmin-ConnectIQ-pool-swim-app.html) is the original post where you can find more information on the app.
+
 Other than that, not many new changes in this version. There are a couple of changes to improve how pace charts are displayed in [Sport Tracks](www.sporttracks.mobi). Thanks to Sport Tracks guys for their support.
 
 I have been collecting accelerometer data. So I will begin to work in autopause detection.  
@@ -42,6 +44,4 @@ Remember that you don't need to create a Disqus account in order to comment: jus
 
 Last, but not least, I offer ads and affiliate links on the site. These links help me get more gadgets that I can show you here :) . And remember that you will still pay the same price for the product. 
 
-Cheerio! 
-
-
+Cheerio!
