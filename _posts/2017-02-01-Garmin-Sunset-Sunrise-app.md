@@ -9,7 +9,7 @@ ads: true
 comments: true
 ---
 
-One of the things I missed when I replaced my [Suunto ambit2s](http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR10.TRC2.A0.H0.Xsuunto+ambit2s.TRS0&_nkw=suunto+ambit2s&_sacat=0) by a [Garmin FR230](https://www.amazon.com/Garmin-Forerunner-230-Black-White/dp/B016PAPI3W/ref=sr_1_1?ie=UTF8&qid=1486048722&sr=8-1&keywords=fr230), was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset). 
+One of the things I missed when I replaced my [Suunto ambit2s](http://a-fwd.com/es=blodedanpin00-21&it=blodedanpi0e0-21&fr=blodedanpin0d-21&de=blodedanpi0d0-21&uk=blodedanpin07-21&com=danipindadogi-20&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B00C3REKUE) by a [Garmin FR230](http://a-fwd.com/es=blodedanpin00-21&it=blodedanpi0e0-21&fr=blodedanpin0d-21&de=blodedanpi0d0-21&uk=blodedanpin07-21&com=danipindadogi-20&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B016PAPI3W), was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset). 
 I usually jog at night, so I tend to look for illuminated places. Only during weekends, if I am lucky, I get to run in the forest. 
 Living in Germany, days are very short in winter. So the app was very handy to figure out how much time left I had before it got dark. 
 
