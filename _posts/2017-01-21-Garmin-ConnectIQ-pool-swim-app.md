@@ -20,7 +20,7 @@ But, the Pebble stopped working, and, feeling that the ambit was more watch that
 
 Then this year I have begun to swim... and given the lack of swim support of the FR230, I found the perfect excuse to write my first ConnectIQ app.
 
-The app provides support for [FR230](https://www.amazon.com/Garmin-Forerunner-230-Black-White/dp/B016PAPI3W/ref=sr_1_1?ie=UTF8&qid=1486048592&sr=8-1&keywords=B016PAPI3W), [FR235](https://www.amazon.com/Garmin-Forerunner-235-Black-Gray/dp/B0160BC1FO/ref=sr_1_1?ie=UTF8&qid=1486048616&sr=8-1&keywords=fr235) and [FR630](https://www.amazon.com/Garmin-Forerunner-630-Midnight-Blue/dp/B016VC1PTU/ref=sr_1_1?ie=UTF8&qid=1486048654&sr=8-1&keywords=fr630).
+The app provides support for [FR230](http://a-fwd.com/es=blodedanpin00-21&it=blodedanpi0e0-21&fr=blodedanpin0d-21&de=blodedanpi0d0-21&uk=blodedanpin07-21&com=danipindadogi-20&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B016PAPI3W), [FR235](http://a-fwd.com/es=blodedanpin00-21&it=blodedanpi0e0-21&fr=blodedanpin0d-21&de=blodedanpi0d0-21&uk=blodedanpin07-21&com=danipindadogi-20&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B0160BC1FO) and [FR630](http://a-fwd.com/es=blodedanpin00-21&it=blodedanpi0e0-21&fr=blodedanpin0d-21&de=blodedanpi0d0-21&uk=blodedanpin07-21&com=danipindadogi-20&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B016VC1PTU).
 These are watches meant for runners. Therefore, Garmin did not include the swim pool mode. 
 
 you can find the user guide [here]({{ site.url }}/downloads/pool_swim_user_guide.pdf) .
@@ -34,7 +34,7 @@ Just in case you don't read it, just a couple of hints:
  + the app, unlike most of you think, does not work on accelerometers. it works on the compass. 
  + For proper function, the app needs to figure out your pool's orientation. This happens during the first 10 seconds of the activity. **Please do not press start if you are not going to swim inmmediately**. Just saying.
  + **When you have a short break, press stop to pause the activity** (f.i. when resting, adjusting goggles, ...). Otherwise it is likely that the compass will eventually trigger a lap. 
- + **The app tracks heart rate**. This is something no very common out there. For the FR235 obviously the optical HRM is being used. For FR230 and FRE630 you need an optical HRM. I am using [Scosche Rhythm+](https://www.amazon.com/Scosche-RHYTHM-Heart-Monitor-Armband/dp/B00JQHTJS2/ref=sr_1_2_a_it?ie=UTF8&qid=1486049115&sr=8-2&keywords=Scosche+Rhythm%2B). I wear it around the wrist, close to the watch, and i am very happy with it. 
+ + **The app tracks heart rate**. This is something no very common out there. For the FR235 obviously the optical HRM is being used. For FR230 and FRE630 you need an optical HRM. I am using [Scosche Rhythm+](http://a-fwd.com/es=blodedanpin00-21&it=blodedanpi0e0-21&fr=blodedanpin0d-21&de=blodedanpi0d0-21&uk=blodedanpin07-21&com=danipindadogi-20&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B00JQHTJS2). I wear it around the wrist, close to the watch, and i am very happy with it. 
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
