@@ -1,0 +1,21 @@
+{% include header.html %}
+
+    {% include follow-bar.html %}
+    {% include title-group.html %}
+
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+
+
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </article>
+{% include share-bar.html %}
+{% include myamazon.html %}
+{% include disqus.html %} 
+{% include analytics.html %}
+{% include footer.html %}
