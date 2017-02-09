@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>D:\Users\nenes\Documents\GitHub\danipindado.github.io\_posts\.2017-01-21-Garmin-ConnectIQ-pool-swim-app.md.html</title>
+<title>D:\Users\nenes\Documents\GitHub\danipindado.github.io\_posts\.2017-02-10-pool-swim-app-v4-3-released.md.html</title>
 
 
 <style type="text/css">
@@ -640,25 +640,28 @@ function setDocumentScrollTop(ypos)
 </head>
 <body class="markdown-body">
 <hr /> 
-<p>layout: inner title: Garmin ConnectIQ Pool Swim App date: 'Sat Jan 21 2017 01:00:00 GMT+0100 (Central Europe Standard Time)' categories: apps tags: apps garmin connectiq ads: true comments: true lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 and FR630'</p> 
-<h2> <a id="published-true" class="anchor" href="#published-true" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>published: true</h2> 
-<p>Pool swim is a <a href="https://apps.garmin.com/es-ES/apps/f134a024-6ee4-47d3-8aec-3a397e3c9733">ConnectIQ app</a> for the Garmin FR230, FR235 and FR630. </p> 
-<p><a href="/images/swimming-pool.png" target="_blank"><img src="/images/swimming-pool.png" alt="swimming-pool-image" style="max-width:100%;" /></a>{:class=&quot;img-responsive&quot;} {% include freepik.html %}</p> 
-<p>My previous running watch was a Suunto ambit2s. I used to combine the running watch with a Pebble smartwatch which I used as my day-to-day watch. </p> 
-<p>But, the Pebble stopped working, and, feeling that the ambit was more watch that I needed (I am just a recreational runner), I got rid of it and bought a Garmin FR230 to fullfill both needs. Besides I am a tech geek and ConnectIQ platform was appealing. </p> 
-<p>Then this year I have begun to swim... and given the lack of swim support of the FR230, I found the perfect excuse to write my first ConnectIQ app.</p> 
-<p>The app provides support for <a href="http://a-fwd.com/es=danpinblo01-21&amp;it=danpinblo03-21&amp;fr=blodedanpin0d-21&amp;de=danpinblo0d-21&amp;uk=danpinblo-21&amp;com=danpinblo-21&amp;e=RR3Mjl7n30G6nQDUx3AT7&amp;asin-com=B016PAPI3W">FR230</a>, <a href="http://a-fwd.com/es=danpinblo01-21&amp;it=danpinblo03-21&amp;fr=blodedanpin0d-21&amp;de=danpinblo0d-21&amp;uk=danpinblo-21&amp;com=danpinblo-21&amp;e=RR3Mjl7n30G6nQDUx3AT7&amp;asin-com=B0160BC1FO">FR235</a> and <a href="http://a-fwd.com/es=danpinblo01-21&amp;it=danpinblo03-21&amp;fr=blodedanpin0d-21&amp;de=danpinblo0d-21&amp;uk=danpinblo-21&amp;com=danpinblo-21&amp;e=RR3Mjl7n30G6nQDUx3AT7&amp;asin-com=B016VC1PTU">FR630</a>. These are watches meant for runners. Therefore, Garmin did not include the swim pool mode. </p> 
-<p>you can find the user guide <a href="%7B%7B%20site.url%20%7D%7D/downloads/pool_swim_user_guide.pdf">here</a> . I know user guides are no fun. But I really recommend you to take a look. Most of the answers users have asked me since I released the apps are answered there. </p> 
-<p>In <a href="https://danipindado.github.io/Pool-Swim-app-v4.2-released.html">this new post</a> I have described how to buttons work for the FR630 after v4.2. I disabled the touch screen for better usability. </p> 
-<p>Just in case you don't read it, just a couple of hints:</p> 
+<p>layout: inner date: '2017-02-10 00:09 +0100' published: false title: Pool Swim app v4.3 released ads: true comments: true lead_text: Imperial units are now supported. Heading calibration improved. tags: garmin apps connectiq</p> 
+<h2> <a id="categories-apps" class="anchor" href="#categories-apps" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>categories: apps</h2> 
+<p>Today I have released v4.3 of the Pool Swim app. </p> 
+<p>The main topic is the support of imperial units. I have also fixed an issue which might cause affect the heading calibration. Hopefully some people will see the length detection improved. </p> 
+<p><strong>Imperial units support</strong> A new application setting &quot;<em>distance unit</em>&quot; has been added. Application settings are those which are configured using Garmin Connect App in your Smartphone or Garmin Express in your PC. <a href="%7B%7Bsite.baseurl%7D%7D/images/garmin%20express.png" target="_blank"><img src="%7B%7Bsite.baseurl%7D%7D/images/garmin%20express.png" alt="garmin express.png" style="max-width:100%;" /></a> <a href="%7B%7Bsite.baseurl%7D%7D/images/Screenshot_2017-02-09-22-17-35.png" target="_blank"><img src="%7B%7Bsite.baseurl%7D%7D/images/Screenshot_2017-02-09-22-17-35.png" alt="Screenshot_2017-02-09-22-17-35.png" style="max-width:100%;" /></a> You will find two options there: meters and yards. From now on, the application setting &quot;<em>pool length</em>&quot; depends on the units chosen. This means, you don't need to convert to meters anymore. If you are swimming in a pool whose length is 30 yd, just set:</p> 
+<p>-pool length: 30 -distance unit: yards</p> 
+<p>If you set the pool length using the watch menu, the distance units will depend on the distance chosen:</p> 
 <ul> 
- <li>the app, unlike most of you think, does not work on accelerometers. it works on the compass. </li> 
- <li>For proper function, the app needs to figure out your pool's orientation. This happens during the first 10 seconds of the activity. <strong>Please do not press start if you are not going to swim inmmediately</strong>. Just saying.</li> 
- <li> <strong>When you have a short break, press stop to pause the activity</strong> (f.i. when resting, adjusting goggles, ...). Otherwise it is likely that the compass will eventually trigger a lap. </li> 
- <li> <strong>The app tracks heart rate</strong>. This is something no very common out there. For the FR235 obviously the optical HRM is being used. For FR230 and FRE630 you need an optical HRM. I am using <a href="http://a-fwd.com/es=danpinblo01-21&amp;it=danpinblo03-21&amp;fr=blodedanpin0d-21&amp;de=danpinblo0d-21&amp;uk=danpinblo-21&amp;com=danpinblo-21&amp;e=RR3Mjl7n30G6nQDUx3AT7&amp;asin-com=B00JQHTJS2">Scosche Rhythm+</a>. I wear it around the wrist, close to the watch, and i am very happy with it. </li> 
+ <li>25m, 33.33m, 50m =&gt; meters</li> 
+ <li>25yds =&gt; yards</li> 
 </ul> 
-<p>Feel free to use the comment section below to ask any questions. Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the &quot;Name&quot; field below, and the option &quot;I'd rather post as a guest&quot; will pop up.</p> 
-<p>Last, but not least, I offer ads and affiliate links on the site. These links help me get more gadgets that I can show you here :) . And remember that you will still pay the same price for the product. </p> 
+<p><em>Why am I not using the unit settings from your garmin connect profile?</em> Because of you :) some users have told me, they tend to run in miles, but swim in meters. If I'd use the setting from the interface, then swim units would automatically be yards. By letting you configure the units, you get more flexibility. </p> 
+<p><em>How is this information displayed in Garmin Connect?</em> Pretty much the same as before. ConnectIQ does not permit to modify the unit string on the fly. Therefore you won't see &quot;m&quot; anymore, but &quot;u&quot; :). There is an additional field called &quot;distance unit&quot; which shows the units valid for this activity (by the way, I have added also a field showing app version):</p> 
+<p><a href="%7B%7Bsite.baseurl%7D%7D/images/Screenshot_2017-02-10-00-22-30.png" target="_blank"><img src="%7B%7Bsite.baseurl%7D%7D/images/Screenshot_2017-02-10-00-22-30.png" alt="Screenshot_2017-02-10-00-22-30.png" style="max-width:100%;" /></a></p> 
+<p>Now, if you see the activity in your PC/MAC, you will not be able to see the &quot;distance unit&quot;. Instead of &quot;m&quot; or &quot;yd&quot;, number zero is displayed:</p> 
+<p><a href="%7B%7Bsite.baseurl%7D%7D/images/imperial_GC.png" target="_blank"><img src="%7B%7Bsite.baseurl%7D%7D/images/imperial_GC.png" alt="imperial_GC.png" style="max-width:100%;" /></a></p> 
+<p>I am innocent! This is a known Garmin Connect issue, which is documented <a href="https://forums.garmin.com/showthread.php?362066-Fit-Contributor-output-string-to-Activity-Summary&amp;highlight=setData+string">here</a>. I considered, that maybe I shouldn't show the field. But given that the data is shown in the Garmin Connect App, I have decided to leave the fields there. Who knows, maybe Garmin guys will eventually fix it (Error was reported in September, therefore do not expect that this happens soon...)</p> 
+<p><em>What happens with 3rd party sites?</em> Nothing. This feature does not affect 3rd party sites. I have created additional data which is only shown in Garmin Connect. 3rd party sites access native data present in the FIT file, which is still there, nothing has changed. Which distance units are shown in the site, will depend on your profile. Take a look at this example. I have configured metric units in my <a href="http://www.sporttracks.mobi">www.sporttracks.mobi</a> profile. If i swim two lengths in a 25yd pool, once the activity gets automatically synced, sporttracks will show 46m: <a href="%7B%7Bsite.baseurl%7D%7D/images/sporttracks.png" target="_blank"><img src="%7B%7Bsite.baseurl%7D%7D/images/sporttracks.png" alt="sporttracks.png" style="max-width:100%;" /></a></p> 
+<p><strong>Calibration improvement</strong> Pool Swim app was featured this weekend in <a href="http://www.sport.es/labolsadelcorredor/pool-swim-app-connect-iq-natacion-piscina-garmin-forerunner-230-235/">La bolsa del corredor</a>, one of the most important sports blogs in Spain. One blog reader, Luis, installed the app, and contacted me after having some issues with the length detection. A 18 emails afterwards and a couple of hours of fit file analysis, I think I might have found an issue causing lack of calibration in some activities. I cross my fingers. I hope this version will improve the accuracy for those of you who had issues. </p> 
+<p>Remember that I make the app for free, it is just a hobby which somehow it is taken more time than I expected at the beginning. </p> 
+<p>For any purchase using the amazon links in the site, i get a small tip back. And you still pay the same price. </p> 
+<p>That's all for now. I hope you enjoy using the app. </p> 
 <p>Cheerio!</p>
 </body>
 </html>

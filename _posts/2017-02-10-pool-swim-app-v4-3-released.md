@@ -11,14 +11,14 @@ categories: apps
 ---
 Today I have released v4.3 of the Pool Swim app. 
 
-The main topic is the support of imperial units. I have also fixed an issue which might cause affect the heading calibration. Hopefuly some people will see the length detection improved. 
+The main topic is the support of imperial units. I have also fixed an issue which might cause affect the heading calibration. Hopefully some people will see the length detection improved. 
 
 **Imperial units support**
-A new application setting "_distance unit_" has been added. Application settings are those which are configured using Garmin Connect App in your smartphone or Garmin Express in your PC. 
+A new application setting "_distance unit_" has been added. Application settings are those which are configured using Garmin Connect App in your Smartphone or Garmin Express in your PC. 
 ![garmin express.png]({{site.baseurl}}/images/garmin express.png)
 ![Screenshot_2017-02-09-22-17-35.png]({{site.baseurl}}/images/Screenshot_2017-02-09-22-17-35.png)
 You will find two options there: meters and yards. 
-From now on, the application seting "_pool length_" depends on the units chosen. This means, you don't need to convert to meters anymore. If you are swimming in a pool whose length is 30 yd, just set:
+From now on, the application setting "_pool length_" depends on the units chosen. This means, you don't need to convert to meters anymore. If you are swimming in a pool whose length is 30 yd, just set:
 
 
 -pool length: 30
