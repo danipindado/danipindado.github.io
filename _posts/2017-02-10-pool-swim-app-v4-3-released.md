@@ -1,7 +1,7 @@
 ---
 layout: inner
 date: '2017-02-10 00:09 +0100'
-published: false
+published: true
 title: Pool Swim app v4.3 released
 ads: true
 comments: true
