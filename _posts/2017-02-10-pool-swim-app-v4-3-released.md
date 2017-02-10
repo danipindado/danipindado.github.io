@@ -60,7 +60,7 @@ I considered, that maybe I shouldn't show the field. But given that the data is 
 _What happens with 3rd party sites?_
 Nothing. This feature does not affect 3rd party sites. I have created additional data which is only shown in Garmin Connect. 3rd party sites access native data present in the FIT file, which is still there, nothing has changed. 
 Which distance units are shown in the site, will depend on your profile. 
-Take a look at this example. I have configured metric units in my [sporttracks](www.sporttracks.mobi) profile. 
+Take a look at this example. I have configured metric units in my [sporttracks](https://www.sporttracks.mobi) profile. 
 If i swim two lengths in a 25yd pool, once the activity gets automatically synced, sporttracks will show 46m:
 
 <img src="{{site.baseurl}}/images/sporttracks.png" width="400">
