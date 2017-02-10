@@ -68,7 +68,7 @@ If i swim two lengths in a 25yd pool, once the activity gets automatically synce
 
 **Calibration improvement**
 Pool Swim app was featured this weekend in [La bolsa del corredor](http://www.sport.es/labolsadelcorredor/pool-swim-app-connect-iq-natacion-piscina-garmin-forerunner-230-235/), one of the most important sports blogs in Spain. One blog reader, Luis, installed the app, and contacted me after having some issues with the length detection. 
-18 emails nd a couple of hours of fit file analysis r, I think I might have found an issue causing lack of calibration in some activities. I cross my fingers. I hope this version will improve the accuracy for those of you who had thisissue. 
+18 emails and a couple of hours of fit file analysis later, I think I might have found an issue causing lack of calibration in some activities. I cross my fingers. I hope this version will improve the accuracy for those of you who had this issue. 
 
 Remember that I make the app for free, it is just a hobby which somehow it is taking more time than I expected at the beginning. 
 
