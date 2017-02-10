@@ -17,9 +17,11 @@ The main topic is the support of imperial units. I have also fixed an issue whic
 A new application setting "_distance unit_" has been added. Application settings are those which are configured using Garmin Connect App in your Smartphone or Garmin Express in your PC. 
 
 GC App:
+
 <img src="{{site.baseurl}}/images/garmin express.png" width="400">
 
 Garmin express:
+
 <img src="{{site.baseurl}}/images/Screenshot_2017-02-09-22-17-35.png" width="400">
 You will find two options there: meters and yards. 
 From now on, the application setting "_pool length_" depends on the units chosen. This means, you don't need to convert to meters anymore. If you are swimming in a pool whose length is 30 yd, just set:
