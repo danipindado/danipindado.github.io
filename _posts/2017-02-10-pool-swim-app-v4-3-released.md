@@ -23,6 +23,7 @@ GC App:
 Garmin express:
 
 <img src="{{site.baseurl}}/images/Screenshot_2017-02-09-22-17-35.png" width="400">
+
 You will find two options there: meters and yards. 
 From now on, the application setting "_pool length_" depends on the units chosen. This means, you don't need to convert to meters anymore. If you are swimming in a pool whose length is 30 yd, just set:
 
@@ -44,9 +45,11 @@ Pretty much the same as before. ConnectIQ does not permit to modify the unit str
 There is an additional field called "distance unit" which shows the units valid for this activity (by the way, I have added also a field showing app version):
 
 <img src="{{site.baseurl}}/images/Screenshot_2017-02-10-00-22-30.png" width="400">
+
 Now, if you see the activity in your PC/MAC, you will not be able to see the "distance unit". Instead of "m" or "yd", number zero is displayed:
 
 <img src="{{site.baseurl}}/images/imperial_GC.png" width="400">
+
 I am innocent! This is a known Garmin Connect issue, which is documented [here](https://forums.garmin.com/showthread.php?362066-Fit-Contributor-output-string-to-Activity-Summary&highlight=setData+string). 
 I considered, that maybe I shouldn't show the field. But given that the data is shown in the Garmin Connect App, I have decided to leave the fields there. Who knows, maybe Garmin guys will eventually fix it (Error was reported in September, therefore do not expect that this happens soon...)
 
