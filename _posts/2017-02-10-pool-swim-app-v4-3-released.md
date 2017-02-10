@@ -30,8 +30,8 @@ You will find two options there: meters and yards.
 From now on, the application setting "_pool length_" depends on the units chosen. This means, you don't need to convert to meters anymore. If you are swimming in a pool whose length is 30 yd, just set:
 
 
--pool length: 30
--distance unit: yards
+- pool length: 30
+- distance unit: yards
 
 If you set the pool length using the watch menu, the distance units will depend on the distance chosen:
 
@@ -40,7 +40,7 @@ If you set the pool length using the watch menu, the distance units will depend 
 - 25yds => yards
 
 _Why am I not using the unit settings from your garmin connect profile?_
-Because of you :) some users have told me, they tend to run in miles, but swim in meters. If I'd use the setting from the interface, then swim units would automatically be yards. By letting you configure the units, you get more flexibility. 
+Because of you :). Some users have told me, they tend to run in miles, but swim in meters. If I'd use the setting from the interface, then swim units would automatically be yards. By letting you configure the units, you get more flexibility. 
 
 _How is this information displayed in Garmin Connect?_
 Pretty much the same as before. ConnectIQ does not permit to modify the unit string on the fly. Therefore you won't see "m" anymore, but "u" :). 
@@ -68,9 +68,9 @@ If i swim two lengths in a 25yd pool, once the activity gets automatically synce
 
 **Calibration improvement**
 Pool Swim app was featured this weekend in [La bolsa del corredor](http://www.sport.es/labolsadelcorredor/pool-swim-app-connect-iq-natacion-piscina-garmin-forerunner-230-235/), one of the most important sports blogs in Spain. One blog reader, Luis, installed the app, and contacted me after having some issues with the length detection. 
-A 18 emails afterwards and a couple of hours of fit file analysis, I think I might have found an issue causing lack of calibration in some activities. I cross my fingers. I hope this version will improve the accuracy for those of you who had issues. 
+18 emails nd a couple of hours of fit file analysis r, I think I might have found an issue causing lack of calibration in some activities. I cross my fingers. I hope this version will improve the accuracy for those of you who had thisissue. 
 
-Remember that I make the app for free, it is just a hobby which somehow it is taken more time than I expected at the beginning. 
+Remember that I make the app for free, it is just a hobby which somehow it is taking more time than I expected at the beginning. 
 
 For any purchase using the amazon links in the site, i get a small tip back. And you still pay the same price. 
 
