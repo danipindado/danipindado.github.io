@@ -15,8 +15,12 @@ The main topic is the support of imperial units. I have also fixed an issue whic
 
 **Imperial units support**
 A new application setting "_distance unit_" has been added. Application settings are those which are configured using Garmin Connect App in your Smartphone or Garmin Express in your PC. 
-![garmin express.png]({{site.baseurl}}/images/garmin express.png)
-![Screenshot_2017-02-09-22-17-35.png]({{site.baseurl}}/images/Screenshot_2017-02-09-22-17-35.png)
+
+GC App:
+<img src="{{site.baseurl}}/images/garmin express.png" width="400">
+
+Garmin express:
+<img src="{{site.baseurl}}/images/Screenshot_2017-02-09-22-17-35.png" width="400">
 You will find two options there: meters and yards. 
 From now on, the application setting "_pool length_" depends on the units chosen. This means, you don't need to convert to meters anymore. If you are swimming in a pool whose length is 30 yd, just set:
 
@@ -37,12 +41,10 @@ _How is this information displayed in Garmin Connect?_
 Pretty much the same as before. ConnectIQ does not permit to modify the unit string on the fly. Therefore you won't see "m" anymore, but "u" :). 
 There is an additional field called "distance unit" which shows the units valid for this activity (by the way, I have added also a field showing app version):
 
-![Screenshot_2017-02-10-00-22-30.png]({{site.baseurl}}/images/Screenshot_2017-02-10-00-22-30.png)
-
+<img src="{{site.baseurl}}/images/Screenshot_2017-02-10-00-22-30.png" width="400">
 Now, if you see the activity in your PC/MAC, you will not be able to see the "distance unit". Instead of "m" or "yd", number zero is displayed:
 
-![imperial_GC.png]({{site.baseurl}}/images/imperial_GC.png)
-
+<img src="{{site.baseurl}}/images/imperial_GC.png" width="400">
 I am innocent! This is a known Garmin Connect issue, which is documented [here](https://forums.garmin.com/showthread.php?362066-Fit-Contributor-output-string-to-Activity-Summary&highlight=setData+string). 
 I considered, that maybe I shouldn't show the field. But given that the data is shown in the Garmin Connect App, I have decided to leave the fields there. Who knows, maybe Garmin guys will eventually fix it (Error was reported in September, therefore do not expect that this happens soon...)
 
@@ -51,8 +53,8 @@ Nothing. This feature does not affect 3rd party sites. I have created additional
 Which distance units are shown in the site, will depend on your profile. 
 Take a look at this example. I have configured metric units in my www.sporttracks.mobi profile. 
 If i swim two lengths in a 25yd pool, once the activity gets automatically synced, sporttracks will show 46m:
-![sporttracks.png]({{site.baseurl}}/images/sporttracks.png)
 
+<img src="{{site.baseurl}}/images/sporttracks.png" width="400">
 
 **Calibration improvement**
 Pool Swim app was featured this weekend in [La bolsa del corredor](http://www.sport.es/labolsadelcorredor/pool-swim-app-connect-iq-natacion-piscina-garmin-forerunner-230-235/), one of the most important sports blogs in Spain. One blog reader, Luis, installed the app, and contacted me after having some issues with the length detection. 
