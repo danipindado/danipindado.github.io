@@ -27,8 +27,9 @@ you can find the user guide [here]({{ site.url }}/downloads/pool_swim_user_guide
 I know user guides are no fun. But I really recommend you to take a look. Most of the answers users have asked me since I released the apps are answered there. 
 
 In [this new post](https://danipindado.github.io/Pool-Swim-app-v4.2-released.html) I have described how to buttons work for the FR630 after v4.2. I disabled the touch screen for better usability. 
+And [here](https://danipindado.github.io/pool-swim-app-v4-3-released.html) you learn how to deal with imperial metrics.
 
-Just in case you don't read it, just a couple of hints:
+Just in case you don't read the user guide, just a couple of hints:
 
 
  + the app, unlike most of you think, does not work on accelerometers. it works on the compass. 
