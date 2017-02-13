@@ -4,7 +4,7 @@ date: '2017-02-13 05:21 +0100'
 ads: true
 comments: true
 lead_text: title
-published: false
+published: true
 title: Evaluate your aerobic capacity with the Ruffier-Dickson index
 ---
 The [Ruffier-Dickson index](https://es.wikipedia.org/wiki/Test_de_Ruffier#Variante:_.C3.8Dndice_de_Ruffier-Dickson) is a test to measure aerobic endurance, and thus a person's fitness level.
