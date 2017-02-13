@@ -82,7 +82,7 @@ The formula makes sense: you will have a bad fitness level if your `P_1` was too
 What I don't like: the one fits all approach. There might be fit people with higher than average HR values. Because their `P_1` is compared to a fix value, "70", they will have a higher (worst) `I_d` compared with people whose HR is average, even if they are not fitter. 
 
 In the end, if you are beginning to exercise and want to know if you are fit enough for the task, talk to a doctor. 
-But, if you are already excercising, checking once a while you `I_d` can give you an indication on how your fitness level evolves. 
+But, if you are already excercising, checking once a while you <div>`I_d`</div> can give you an indication on how your fitness level evolves. 
 
 As usual feel free to contact me for questions and requests. 
 
