@@ -43,10 +43,3 @@ prose:
           label: "lead_text"
           element: "text"
           value: "title"
-          
-          
-          ads: true
-comments: true
-lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 and FR630'
-          
-          
