@@ -1,12 +1,7 @@
 ---
-layout: inner
-title: Pool Swim app v4.2 released
-date: 'Thu Jan 26 2017 01:00:00 GMT+0100 (Central Europe Standard Time)'
-categories: apps
-tags: apps garmin connectiq
-comments: true
-ads: true
-lead_text: New UI for FR630
+layout: test
+title: test
+permalink: /Test/
 published: true
 ---
 
