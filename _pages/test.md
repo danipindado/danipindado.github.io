@@ -26,18 +26,18 @@ This test is based on a formula that serves to obtain a coefficient that gives u
 To calculate the index, the following parameters are defined:
 
 
-- <div>`P_0`</div> = Heart rate right before the exercise begins 
-- <div>`P_1`</div> = Heart rate just when exercise finishes 
-- <div>`P_2`</div> = Heart rate after one minute recovery 
+- <div>`P_0` = Heart rate right before the exercise begins </div>
+- <div>`P_1` = Heart rate just when exercise finishes </div>
+- <div>`P_2` = Heart rate after one minute recovery </div>
 
 <div>`I_d = ((P_1-70) + 2 * (P_2-P_0)) / 10`</div>
 
 The test defines also four different fitness levels, depending on the value of `I_d`
 
-`0 < I_d <= 3` excellent 
-`3 < I_d <=6` normal 
-`6 < I_d <=8` weak 
-`I_d >= 8` Inappropriate 
+<div>`0 < I_d <= 3` excellent </div>
+<div>`3 < I_d <=6` normal </div>
+<div>`6 < I_d <=8` weak </div>
+<div>`I_d >= 8` Inappropriate </div>
 
 Now you can measure your Ruffier-Dickson index with my [new app](https://apps.garmin.com/es-ES/apps/3448594e-c17a-4c78-8ccf-5ec0cb2d10be). 
 
