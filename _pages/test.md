@@ -26,11 +26,11 @@ This test is based on a formula that serves to obtain a coefficient that gives u
 To calculate the index, the following parameters are defined:
 
 
-- `**P_0**` = Heart rate right before the exercise begins 
-- `**P_1**` = Heart rate just when exercise finishes 
-- `**P_2**` = Heart rate after one minute recovery 
+- ` P_0 ` = Heart rate right before the exercise begins 
+- ` P_1 ` = Heart rate just when exercise finishes 
+- ` P_2 ` = Heart rate after one minute recovery 
 
-`I_d = ((P_1-70) + 2 * (P_2-P_0)) / 10`
+` I_d = ((P_1-70) + 2 * (P_2-P_0)) / 10 `
 
 The test defines also four different fitness levels, depending on the value of `I_d`
 
