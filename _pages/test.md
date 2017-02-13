@@ -7,7 +7,7 @@ published: true
 
 pic
 
-{% include image.html file="/images/FR630.png" %}
+{% include image.html src="/images/FR630.png" alt="alt" %}
 
 
 vid
