@@ -32,6 +32,7 @@ To calculate the index, the following parameters are defined:
 
 <div>`I_d = ((P_1-70) + 2 * (P_2-P_0)) / 10`</div>
 
+
 <div>The test defines also four different fitness levels, depending on the value of `I_d`</div>
 
 <div>`0 < I_d <= 3` excellent </div>
