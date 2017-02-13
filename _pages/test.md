@@ -32,7 +32,7 @@ To calculate the index, the following parameters are defined:
 
 <div>`I_d = ((P_1-70) + 2 * (P_2-P_0)) / 10`</div>
 
-The test defines also four different fitness levels, depending on the value of `I_d`
+<div>The test defines also four different fitness levels, depending on the value of `I_d`</div>
 
 <div>`0 < I_d <= 3` excellent </div>
 <div>`3 < I_d <=6` normal </div>
@@ -50,11 +50,11 @@ Using the app is pretty straight forward.
 Just stay in rest position and press start. the following three phases will be automatically triggered:
 
 
-- 15 seconds rest time, for estimation of `P_0`
-- 45 seconds exercise time. Here you have to perform 30 squats. At the end of this phase `P_1` will be estimated
-- 60 seconds recovery time, after which `P_2` and `I_d` are estimated. 
+- <div>15 seconds rest time, for estimation of `P_0`</div>
+- <div>45 seconds exercise time. Here you have to perform 30 squats. At the end of this phase `P_1` will be estimated</div>
+- <div>60 seconds recovery time, after which `P_2` and `I_d` are estimated</div>
 
-Hint: you can use [this metronome](http://a.bestmetronome.com/) to help you keep the rhythm. You need to set the the *beats for minute* at 40 bpm, and do one squat per beat (or, alternatively, at 80bpm, for up&down beats). Press start and you are good to go. 
+Hint: you can use [this metronome](http://a.bestmetronome.com/) to help you keep the rhythm. You need to set the the *beats for minute* at 40 bpm, and do one squat per beat (or, alternatively, at 80bpm, for up & down beats). Press start and you are good to go. 
 
 During the test, the watch will show you the phase you actually are in, and how many seconds remain till next phase:
 
@@ -68,7 +68,7 @@ Once finished, the app will show the estimated index:
 
 After syncing your will find the Garmin Connect all calculated parameters:
 
-<img src="/images/2017-02-13_04h57_02.png" width="400">
+<img src="/images/2017-02-13_04h57_02.png" width="200">
 
 
 And of course, the heart rate chart during the 2 minutes of the test:
@@ -77,12 +77,12 @@ And of course, the heart rate chart during the 2 minutes of the test:
 
 
 What I like about the test: It is fast and easy. You can repeat the test every 4 weeks, and see how your fitness level evolves. 
-The formula makes sense: you will have a bad fitness level if your `P_1` was too high (exercise caused a huge increase in HR), or if `P_2` is not close to `P_0` after rest. 
+<div>The formula makes sense: you will have a bad fitness level if your `P_1` was too high (exercise caused a huge increase in HR), or if `P_2` is not close to `P_0` after rest. </div>
 
-What I don't like: the one fits all approach. There might be fit people with higher than average HR values. Because their `P_1` is compared to a fix value, "70", they will have a higher (worst) `I_d` compared with people whose HR is average, even if they are not fitter. 
+<div>What I don't like: the one fits all approach. There might be fit people with higher than average HR values. Because their `P_1` is compared to a fix value, "70", they will have a higher (worst) `I_d` compared with people whose HR is average, even if they are not fitter. </div>
 
 In the end, if you are beginning to exercise and want to know if you are fit enough for the task, talk to a doctor. 
-But, if you are already excercising, checking once a while you <div>`I_d`</div> can give you an indication on how your fitness level evolves. 
+<div>But, if you are already excercising, checking once a while you `I_d` can give you an indication on how your fitness level evolves. </div>
 
 As usual feel free to contact me for questions and requests. 
 
