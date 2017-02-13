@@ -28,17 +28,17 @@ prose:
           label: "tags"
           element: "text"
           placeholder: "Enter tags"
-      - name: "title"
+      - name: "ads"
         field:
           label: "ads"
-          element: "Checkbox"
+          element: "checkbox"
           value: "true"
-      - name: "title"
+      - name: "comments"
         field:
           label: "comments"
-          element: "Checkbox"
+          element: "checkbox"
           value: "true"
-      - name: "title"
+      - name: "lead_text"
         field:
           label: "lead_text"
           element: "text"
