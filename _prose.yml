@@ -28,3 +28,25 @@ prose:
           label: "tags"
           element: "text"
           placeholder: "Enter tags"
+      - name: "title"
+        field:
+          label: "ads"
+          element: "Checkbox"
+          value: "true"
+      - name: "title"
+        field:
+          label: "comments"
+          element: "Checkbox"
+          value: "true"
+      - name: "title"
+        field:
+          label: "lead_text"
+          element: "text"
+          value: "title"
+          
+          
+          ads: true
+comments: true
+lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 and FR630'
+          
+          
