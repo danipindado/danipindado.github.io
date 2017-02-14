@@ -60,7 +60,7 @@ Once finished, the app will show the estimated index:
 <img src="/images/2017-02-13_04h18_19.png" width="400">
 
 
-After syncing your will find the Garmin Connect all calculated parameters:
+After syncing your will find in Garmin Connect all calculated parameters:
 
 <img src="/images/2017-02-13_04h57_02.png" width="200">
 
