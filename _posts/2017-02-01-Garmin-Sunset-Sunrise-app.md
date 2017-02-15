@@ -7,23 +7,24 @@ categories: apps
 tags: garmin apps connectiq
 ads: true
 comments: true
+lead_text: title
 ---
 
-One of the things I missed when I replaced my [Suunto ambit2s](http://a-fwd.com/es=danpinblo01-21&it=danpinblo03-21&fr=blodedanpin0d-21&de=danpinblo0d-21&uk=danpinblo-21&com=danpinblo-21&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B00C3REKUE) by a [Garmin FR230](http://a-fwd.com/es=danpinblo01-21&it=danpinblo03-21&fr=blodedanpin0d-21&de=danpinblo0d-21&uk=danpinblo-21&com=danpinblo-21&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B016PAPI3W), was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset). 
+One of the things I missed when I replaced my [Suunto ambit2s](http://a-fwd.com/es=danpinblo01-21&it=danpinblo03-21&fr=blodedanpin0d-21&de=danpinblo0d-21&uk=danpinblo-21&com=danpinblo-21&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B00C3REKUE){:target="_blank"} by a [Garmin FR230](http://a-fwd.com/es=danpinblo01-21&it=danpinblo03-21&fr=blodedanpin0d-21&de=danpinblo0d-21&uk=danpinblo-21&com=danpinblo-21&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B016PAPI3W){:target="_blank"}, was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset){:target="_blank"}. 
 I usually jog at night, so I tend to look for illuminated places. Only during weekends, if I am lucky, I get to run in the forest. 
 Living in Germany, days are very short in winter. So the app was very handy to figure out how much time left I had before it got dark. 
 
-You can find the app [here](https://apps.garmin.com/es-ES/apps/d4253bb4-1aaf-4538-be8f-5e2e864708ea#0). 
+You can find the app [here](https://apps.garmin.com/es-ES/apps/d4253bb4-1aaf-4538-be8f-5e2e864708ea#0){:target="_blank"}. 
 
 <img src="{{site.baseurl}}/images/sunset (2).png" width="400">
 {% include freepik.html %}
 
 
-If you are curious about how the app works, take a look at [this c program](http://souptonuts.sourceforge.net/code/sunrise.c.html)  by [Mike Chirico](http://souptonuts.sourceforge.net/) which calculates sunrise & sunset time for given gps coordinates. 
+If you are curious about how the app works, take a look at [this c program](http://souptonuts.sourceforge.net/code/sunrise.c.html){:target="_blank"}  by [Mike Chirico](http://souptonuts.sourceforge.net/){:target="_blank"} which calculates sunrise & sunset time for given gps coordinates. 
 
 The app is actually a data field. This means, that you can use this field in any activity you have available in your watch. You just need to add the data field to one of the data screens.
 
-This great video by [Moxy monitor team](http://www.moxymonitor.com/) shows you how to add a ConnectIQ data field to an activity screen:
+This great video by [Moxy monitor team](http://www.moxymonitor.com/){:target="_blank"} shows you how to add a ConnectIQ data field to an activity screen:
 {% include youtubeplayer.html id="rjnrgGX79ag" start=360 %}
 
 Once you have installed the app, there are some settings you can deal with. 
