@@ -7,9 +7,9 @@ lead_text: title
 published: true
 title: Evaluate your aerobic capacity with the Ruffier-Dickson index
 ---
-The [Ruffier-Dickson index](https://es.wikipedia.org/wiki/Test_de_Ruffier#Variante:_.C3.8Dndice_de_Ruffier-Dickson) is a test to measure aerobic endurance, and thus a person's fitness level.
+The [Ruffier-Dickson index](https://es.wikipedia.org/wiki/Test_de_Ruffier#Variante:_.C3.8Dndice_de_Ruffier-Dickson){:target="_blank"} is a test to measure aerobic endurance, and thus a person's fitness level.
 
-This index is a variant of the Ruffier index, defined by the French doctor [James-Edward Ruffier](https://fr.wikipedia.org/wiki/James-Edward_Ruffier).
+This index is a variant of the Ruffier index, defined by the French doctor [James-Edward Ruffier](https://fr.wikipedia.org/wiki/James-Edward_Ruffier){:target="_blank"}.
 
 According Wikipedia, the index is widely used in France. Actually the wiki article has not been translated to English as of now. 
 
@@ -33,7 +33,7 @@ To calculate the index, the following parameters are defined:
 <div>`6 < I_d <=8` weak </div>
 <div>`I_d >= 8` Inappropriate </div>
 
-Now you can measure your Ruffier-Dickson index with my [new app](https://apps.garmin.com/es-ES/apps/3448594e-c17a-4c78-8ccf-5ec0cb2d10be). 
+Now you can measure your Ruffier-Dickson index with my [new app](https://apps.garmin.com/es-ES/apps/3448594e-c17a-4c78-8ccf-5ec0cb2d10be){:target="_blank"}. 
 
 <img src="/images/cardiogram_512.png" width="400">
 {% include freepik.html %}
@@ -48,7 +48,7 @@ Just stay in rest position and press start. the following three phases will be a
 - <div>45 seconds exercise time. Here you have to perform 30 squats. At the end of this phase `P_1` will be estimated</div>
 - <div>60 seconds recovery time, after which `P_2` and `I_d` are estimated</div>
 
-Hint: you can use [this metronome](http://a.bestmetronome.com/) to help you keep the rhythm. You need to set the the *beats for minute* at 40 bpm, and do one squat per beat (or, alternatively, at 80bpm, for up & down beats). Press start and you are good to go. 
+Hint: you can use [this metronome](http://a.bestmetronome.com/){:target="_blank"} to help you keep the rhythm. You need to set the the *beats for minute* at 40 bpm, and do one squat per beat (or, alternatively, at 80bpm, for up & down beats). Press start and you are good to go. 
 
 During the test, the watch will show you the phase you actually are in, and how many seconds remain till next phase:
 
