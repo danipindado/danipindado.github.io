@@ -54,20 +54,20 @@ Now, if you see the activity in your PC/MAC, you will not be able to see the "di
 <img src="{{site.baseurl}}/images/imperial_GC.png" width="400">
 
 
-I am innocent! This is a known Garmin Connect issue, which is documented [here](https://forums.garmin.com/showthread.php?362066-Fit-Contributor-output-string-to-Activity-Summary&highlight=setData+string). 
+I am innocent! This is a known Garmin Connect issue, which is documented [here](https://forums.garmin.com/showthread.php?362066-Fit-Contributor-output-string-to-Activity-Summary&highlight=setData+string){:target="_blank"}. 
 I considered, that maybe I shouldn't show the field. But given that the data is shown in the Garmin Connect App, I have decided to leave the fields there. Who knows, maybe Garmin guys will eventually fix it (Error was reported in September, therefore do not expect that this happens soon...)
 
 _What happens with 3rd party sites?_
 Nothing. This feature does not affect 3rd party sites. I have created additional data which is only shown in Garmin Connect. 3rd party sites access native data present in the FIT file, which is still there, nothing has changed. 
 Which distance units are shown in the site, will depend on your profile. 
-Take a look at this example. I have configured metric units in my [sporttracks](https://www.sporttracks.mobi) profile. 
+Take a look at this example. I have configured metric units in my [sporttracks](https://www.sporttracks.mobi){:target="_blank"} profile. 
 If i swim two lengths in a 25yd pool, once the activity gets automatically synced, sporttracks will show 46m:
 
 <img src="{{site.baseurl}}/images/sporttracks.png" width="400">
 
 
 **Calibration improvement**
-Pool Swim app was featured this weekend in [La bolsa del corredor](http://www.sport.es/labolsadelcorredor/pool-swim-app-connect-iq-natacion-piscina-garmin-forerunner-230-235/), one of the most important sports blogs in Spain. One blog reader, Luis, installed the app, and contacted me after having some issues with the length detection. 
+Pool Swim app was featured this weekend in [La bolsa del corredor](http://www.sport.es/labolsadelcorredor/pool-swim-app-connect-iq-natacion-piscina-garmin-forerunner-230-235/){:target="_blank"}, one of the most important sports blogs in Spain. One blog reader, Luis, installed the app, and contacted me after having some issues with the length detection. 
 18 emails and a couple of hours of fit file analysis later, I think I might have found an issue causing lack of calibration in some activities. I cross my fingers. I hope this version will improve the accuracy for those of you who had this issue. 
 
 Remember that I make the app for free, it is just a hobby which somehow it is taking more time than I expected at the beginning. 
