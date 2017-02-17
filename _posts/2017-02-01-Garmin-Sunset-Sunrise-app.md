@@ -7,7 +7,9 @@ categories: apps
 tags: garmin apps connectiq
 ads: true
 comments: true
-lead_text: title
+lead_text: >-
+  This is a Garmin data field showing how long you have before next sunrise or
+  sunset, whichever comes first
 ---
 
 One of the things I missed when I replaced my [Suunto ambit2s](http://a-fwd.com/es=danpinblo01-21&it=danpinblo03-21&fr=blodedanpin0d-21&de=danpinblo0d-21&uk=danpinblo-21&com=danpinblo-21&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B00C3REKUE){:target="_blank"} by a [Garmin FR230](http://a-fwd.com/es=danpinblo01-21&it=danpinblo03-21&fr=blodedanpin0d-21&de=danpinblo0d-21&uk=danpinblo-21&com=danpinblo-21&e=RR3Mjl7n30G6nQDUx3AT7&asin-com=B016PAPI3W){:target="_blank"}, was the [Sunset/Sunrise app](http://www.movescount.com/apps/app10000003-SunriseSunset){:target="_blank"}. 
