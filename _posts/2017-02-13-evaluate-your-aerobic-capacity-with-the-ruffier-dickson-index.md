@@ -3,13 +3,11 @@ layout: inner
 date: '2017-02-13 05:21 +0100'
 ads: true
 comments: true
-lead_text: >-
-  The [Ruffier-Dickson
-  index](https://es.wikipedia.org/wiki/Test_de_Ruffier#Variante:_.C3.8Dndice_de_Ruffier-Dickson){:target="_blank"}
-  is a test to measure aerobic endurance, and thus a person's fitness level.
 published: true
 title: Evaluate your aerobic capacity with the Ruffier-Dickson index
 ---
+The [Ruffier-Dickson index](https://es.wikipedia.org/wiki/Test_de_Ruffier#Variante:_.C3.8Dndice_de_Ruffier-Dickson){:target="_blank"} is a test to measure aerobic endurance, and thus a person's fitness level.
+
 This index is a variant of the Ruffier index, defined by the French doctor [James-Edward Ruffier](https://fr.wikipedia.org/wiki/James-Edward_Ruffier){:target="_blank"}.
 
 According Wikipedia, the index is widely used in France. Actually the wiki article has not been translated to English as of now. 
