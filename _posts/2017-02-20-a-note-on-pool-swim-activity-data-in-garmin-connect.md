@@ -23,7 +23,7 @@ here below both methods are described.
 ## Understanding data in Garmin Connect
 ConnectIQ apps are not allow to override native fields in Garmin Connect. Therefore, the native distance fields will show distance = 0m.  Same applies for speed. Please note, that this is a Garmin decision. **There is nothing that developers can do right now to override native fields from within an app.**
 
-<img src="{{site.baseurl}}/images/images/distance_1.png" width="100%">
+<img src="{{site.baseurl}}/images/distance_1.png" width="100%">
 
 
 Still measured distance, speed and interval information are shown in Garmin Connect. You can find these data in the statistics and intervals region. You will find a ConnectIQ section where you can find the data recorded by the app.
