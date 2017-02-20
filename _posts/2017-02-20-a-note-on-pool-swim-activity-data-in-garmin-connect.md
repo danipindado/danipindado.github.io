@@ -29,12 +29,12 @@ ConnectIQ apps are not allow to override native fields in Garmin Connect. Theref
 
 Still measured distance, speed and interval information are shown in Garmin Connect. You can find these data in the statistics and intervals region. You will find a ConnectIQ section where you can find the data recorded by the app.
  
-![distance_2.png]({{site.baseurl}}/images/distance_2.png)
-![distance_3.png]({{site.baseurl}}/images/distance_3.png)
+<img src="{{site.baseurl}}/images/distance_2.png" width="100%">
+<img src="{{site.baseurl}}/images/distance_3.png" width="100%">
  
  And also in the app:
  
- ![distance_app.png]({{site.baseurl}}/images/distance_app.png)
+<img src="{{site.baseurl}}/images/distance_app.png" width="50%">
 
 
 You can edit the distance shown in the native field. 
@@ -44,13 +44,13 @@ You can:
 
 To manually modify the distance, edit the activity following the steps below:
 
-![distance_4.png]({{site.baseurl}}/images/distance_4.png)
-![distance_5.png]({{site.baseurl}}/images/distance_5.png)
+<img src="{{site.baseurl}}/images/distance_4.png" width="100%">
+<img src="{{site.baseurl}}/images/distance_5.png" width="100%">
  
 
 Once you have set the proper distance, you’ll see that native pace field will be also updated.
 
-![distance_6.png]({{site.baseurl}}/images/distance_6.png)
+<img src="{{site.baseurl}}/images/distance_6.png" width="100%">
 
 
 ## Replacing native fields in Garmin connect (gpx method)
@@ -59,16 +59,17 @@ In www.sporttracks.mobi, browse the activity.
 Select “export” and “gpx”. 
 A gpx file containing the activity will be downloaded.
 
-![gpx_1.png]({{site.baseurl}}/images/gpx_1.png)
+<img src="{{site.baseurl}}/images/gpx_1.png" width="100%">
  
 
 Upload the gpx file generated in previous step into Garmin Connect. 
 In order to do this, go to “my activities”, “manual upload”. Select the file and upload it.
 
-![gpx_2.png]({{site.baseurl}}/images/gpx_2.png)
+<img src="{{site.baseurl}}/images/gpx_2.png" width="100%">
 
 
 The activity will be uploaded to Garmin Connect. 
 This time, native fields show the correct information, because sportracks overrode the native fields with the ConnectIQ fields in the gpx file. The ConnectIQ fields are not available anymore.
 
-![gpx_3.png]({{site.baseurl}}/images/gpx_3.png)
+<img src="{{site.baseurl}}/images/gpx_3.png" width="100%">
+
