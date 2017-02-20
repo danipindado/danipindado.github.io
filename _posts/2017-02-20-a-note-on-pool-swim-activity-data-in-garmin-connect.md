@@ -31,6 +31,10 @@ Still measured distance, speed and interval information are shown in Garmin Conn
 ![distance_2.png]({{site.baseurl}}/images/distance_2.png)
 ![distance_3.png]({{site.baseurl}}/images/distance_3.png)
  
+ And also in the app:
+ 
+ ![distance_app.png]({{site.baseurl}}/images/distance_app.png)
+
 
 You can edit the distance shown in the native field. 
 You can:
