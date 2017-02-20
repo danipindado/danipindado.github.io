@@ -3,9 +3,10 @@ layout: inner
 date: '2017-02-20 22:03 +0100'
 ads: true
 comments: true
-lead_text: title
 published: true
 title: A note on pool swim activity data in Garmin Connect
+categories: apps
+tags: apps connectiq garmin
 ---
 This last week I have received 11 (!) times the same question: why is distance shown as 0 in Garmin Connect after syncing the activity?
 
