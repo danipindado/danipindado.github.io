@@ -53,15 +53,17 @@ You need to have a sporttracks account for this, which is already synced with yo
 In www.sporttracks.mobi, browse the activity. 
 Select “export” and “gpx”. 
 A gpx file containing the activity will be downloaded.
+
+![gpx_1.png]({{site.baseurl}}/images/gpx_1.png)
  
 
 Upload the gpx file generated in previous step into Garmin Connect. 
 In order to do this, go to “my activities”, “manual upload”. Select the file and upload it.
- 
+
+![gpx_2.png]({{site.baseurl}}/images/gpx_2.png)
+
 
 The activity will be uploaded to Garmin Connect. 
 This time, native fields show the correct information, because sportracks overrode the native fields with the ConnectIQ fields in the gpx file. The ConnectIQ fields are not available anymore.
- 
 
-
-
+![gpx_3.png]({{site.baseurl}}/images/gpx_3.png)
