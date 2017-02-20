@@ -37,12 +37,8 @@ Still measured distance, speed and interval information are shown in Garmin Conn
 <img src="{{site.baseurl}}/images/distance_app.png" width="50%">
 
 
-You can edit the distance shown in the native field. 
-You can:
--	Import a gpx file from www.sporttracks.mobi (see appendix for a description of this method)
--	Manually edit the distance in Garmin Connect
 
-To manually modify the distance, edit the activity following the steps below:
+## Manually modifying data in Garmin Connect
 
 <img src="{{site.baseurl}}/images/distance_4.png" width="100%">
 <img src="{{site.baseurl}}/images/distance_5.png" width="100%">
