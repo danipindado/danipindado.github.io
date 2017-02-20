@@ -3,7 +3,7 @@ layout: inner
 date: '2017-02-20 21:28 +0100'
 ads: true
 comments: true
-published: false
+published: true
 title: New pool swim version with improved length detection
 categories: apps
 tags: garmin apps connectiq
