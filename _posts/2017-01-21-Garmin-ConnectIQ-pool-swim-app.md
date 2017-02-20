@@ -28,6 +28,7 @@ I know user guides are no fun. But I really recommend you to take a look. Most o
 
 In [this new post](https://danipindado.github.io/Pool-Swim-app-v4.2-released.html){:target="_blank"} I have described how to buttons work for the FR630 after v4.2. I disabled the touch screen for better usability. 
 And [here](https://danipindado.github.io/pool-swim-app-v4-3-released.html){:target="_blank"} you learn how to deal with imperial metrics.
+You wonder why distance is 0 in garmin connect? Read [this](https://danipindado.github.io/a-note-on-pool-swim-activity-data-in-garmin-connect.html).
 
 Just in case you don't read the user guide, just a couple of hints:
 
