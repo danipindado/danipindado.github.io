@@ -16,12 +16,12 @@ Until that version, the only data source I had was the chart shown in Garmin Con
 
 Here you can see an example. This chart shows about 80 seconds of a swimming activity. The data series in orange color shows the heading with the filter I have been using until version 4.3. And the grey one, the new filter which is implemented in version 4.4. The new algorithm reduces better the oscillations.
 
-![excel.png]({{site.baseurl}}/images/excel.png)
-<img src="{{site.baseurl}}/images/garmin express.png" width="50%">
+<img src="{{site.baseurl}}/images/excel.png" width="50%">
 
 I have introduced improvements in the memory management. And specially in the menu handling, both main menu and exit menu. Browsing the menus was consuming lot of memory. under circumstances, the app could run out of memory. I hope this won't be happening anymore. 
 
 I have removed the stroke counting. It was not working very well. And it was consuming lot of memory because of some big arrays. Now that I can acquire data @10Hz, it should be much easier to fine tune the stroke counting algorithm. Until now I was just guesstimating. For this I need data! I would be very glad if some of you, especially those with better swimming skills, could provide a fit file (with the "debug" setting active).
 
 Happy swimming!
+
 Cheerio
