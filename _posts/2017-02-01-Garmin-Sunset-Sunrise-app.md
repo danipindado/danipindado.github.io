@@ -42,7 +42,7 @@ In the configuration menu you will find these three settings:
 
 
 + **24h format**: obvious, isn't it? Depending on the setting, you will see 17:45 or 5:45PM. 
-+ **show remaining time?**: if activated, it will show how long you have before next sunrise or sunset, whichever comes first.  Let's say sunset will be at 18:00. The time right now is 16:30. If you activate this setting, the data field will show ~~"-1:30"~~ "1:30" (one hour, thirty minutes before sunset - in v1.5 I have removed the minus sign. Due to a CIQ bug, the chosen font was rather small, see (https://forums.garmin.com/showthread.php?363186-Font-size-reduced-in-simple-data-field-when-returned-a-char&highlight=char+size+simple+data+field){:target="_blank"} ). 
++ **show remaining time?**: if activated, it will show how long you have before next sunrise or sunset, whichever comes first.  Let's say sunset will be at 18:00. The time right now is 16:30. If you activate this setting, the data field will show ~~"-1:30"~~ "1:30" (one hour, thirty minutes before sunset - in v1.5 I have removed the minus sign. Due to a CIQ bug, the chosen font was rather small, see [this](https://forums.garmin.com/showthread.php?363186-Font-size-reduced-in-simple-data-field-when-returned-a-char&highlight=char+size+simple+data+field){:target="_blank"} ). 
 + **turn back alarm?**: If activated, the watch will vibrate and play a tone at the time you should be turning back. Coming back to the previous example, if your activity begins at 16:30 and you have therefore 90minutes before sunset, the alarm will be triggered after 45 minutes (at 17:15). Alarm is only triggered if sunset comes next. There will be no alarm if you are running at night and sunrise is approaching. 
 
 
