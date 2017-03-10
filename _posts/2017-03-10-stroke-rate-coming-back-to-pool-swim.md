@@ -19,7 +19,7 @@ Here you can see a chart showing the data read by the accelerometer (red) and th
 
 Of course behaviour might change from swimmer to swimmer. The algorithm has been fine tuned with just that one sample, plus some testing that I have performed in my living room :)
 
-It is optimized for crawl (mainly because this is the swimming style the user swam...). If you usually swim in a different style and stroke rate is not working accurately, maybe you can create a FIT file with debug info and share it with me. 
+It is optimized for crawl (mainly because this is the swimming style the user swam...). If you usually swim in a different style and stroke rate is not working accurately, maybe you can create a FIT file with debug info and share it with me. Info on this: take a look at page 19 of the [user guide](https://danipindado.github.io/downloads/pool_swim_user_guide.pdf){:target="_blank"}
 
 Other than that, I have fixed a bug which in certain circumstances might trigger two wrong lengths at the beginning of the activity. 
 
