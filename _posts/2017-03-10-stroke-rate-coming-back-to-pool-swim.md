@@ -3,9 +3,11 @@ layout: inner
 date: '2017-03-10 21:33 +0100'
 ads: true
 comments: true
-lead_text: title
-published: false
+lead_text: Improved stroke rate algorithm
+published: true
 title: Stroke rate coming back to Pool Swim
+categories: apps
+tags: garmin apps connectiq
 ---
 Today I am releasing v4.5 of Pool Swim. 
 
@@ -28,5 +30,3 @@ And I have done a very minor change to the length detection algorithm, to make i
 Happy swimming!
 
 Cheerio!
-
-
