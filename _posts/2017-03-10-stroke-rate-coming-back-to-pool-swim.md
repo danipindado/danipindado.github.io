@@ -25,4 +25,8 @@ Other than that, I have fixed a bug which in certain circumstances might trigger
 
 And I have done a very minor change to the length detection algorithm, to make it even more robust. 
 
+Happy swimming!
+
+Cheerio!
+
 
