@@ -15,11 +15,11 @@ The biggest change is stroke rate calculation. Maybe you remember I removed it f
 
 Thanks to the support of one user who sent me a fit file with debug information activated, I have come up with a band pass filter for the acceleration which should hopefully provide much more accurate values. 
 
-Here you can see a chart showing the data read by the accelerometer (red) and the same signal after applying the digital filter (blue). Most of the noise is gone and it attenuates the effect of gravity. the result is a quite smooth curve oscilating around 0, which is what I am using now for estimating stroke rate. 
+Here you can see a chart showing the data read by the accelerometer (red) and the same signal after applying the digital filter (blue). Most of the noise is gone and it attenuates the effect of gravity. the result is a quite smooth curve oscillating around 0, which is what I am using now for estimating stroke rate. 
 
 <img src="{{site.baseurl}}/images/2017-03-10_21h43_42.png" width="100%">
 
-Of course behaviour might change from swimmer to swimmer. The algorithm has been fine tuned with just that one sample, plus some testing that I have performed in my living room :)
+Of course, behavior might change from swimmer to swimmer. The algorithm has been fine-tuned with just that one sample, plus some testing that I have performed in my living room :)
 
 It is optimized for crawl (mainly because this is the swimming style the user swam...). If you usually swim in a different style and stroke rate is not working accurately, maybe you can create a FIT file with debug info and share it with me. Info on this: take a look at page 19 of the [user guide](https://danipindado.github.io/downloads/pool_swim_user_guide.pdf){:target="_blank"}
 
