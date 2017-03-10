@@ -11,11 +11,11 @@ tags: garmin apps connectiq
 ---
 Today I am releasing v4.5 of Pool Swim. 
 
-The biggest change is stroke rate. Maybe you remember I removed it from v4.4. Or actually, I stopped calculating it because it was not very accurate. 
+The biggest change is stroke rate calculation. Maybe you remember I removed it from v4.4. Or actually, I stopped calculating it because it was not very accurate. 
 
-Thanks to the support of one user who sent me fit file with debug information activated, I have come up with a band pass filter for the acceleration which should hopefully provide much more accurate values. 
+Thanks to the support of one user who sent me a fit file with debug information activated, I have come up with a band pass filter for the acceleration which should hopefully provide much more accurate values. 
 
-Here you can see a chart showing the data read by the accelerometer (red) and the same signal after applying the digital filter. Most of the noise is gone and it attenuates the effect of gravity. the result is a quite smooth curve oscilating around 0. 
+Here you can see a chart showing the data read by the accelerometer (red) and the same signal after applying the digital filter (blue). Most of the noise is gone and it attenuates the effect of gravity. the result is a quite smooth curve oscilating around 0, which is what I am using now for estimating stroke rate. 
 
 <img src="{{site.baseurl}}/images/2017-03-10_21h43_42.png" width="100%">
 
@@ -23,7 +23,7 @@ Of course behaviour might change from swimmer to swimmer. The algorithm has been
 
 It is optimized for crawl (mainly because this is the swimming style the user swam...). If you usually swim in a different style and stroke rate is not working accurately, maybe you can create a FIT file with debug info and share it with me. Info on this: take a look at page 19 of the [user guide](https://danipindado.github.io/downloads/pool_swim_user_guide.pdf){:target="_blank"}
 
-Other than that, I have fixed a bug which in certain circumstances might trigger two wrong lengths at the beginning of the activity. 
+Other than that, I have fixed a bug which in certain circumstances might trigger two wrong lengths at the beginning of the activity, which was reported by a blog user.  
 
 And I have done a very minor change to the length detection algorithm, to make it even more robust. 
 
