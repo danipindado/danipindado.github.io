@@ -23,6 +23,7 @@ unpublished: false
 # Plugins
 whitelist: []
 gems:      [jekyll-paginate]
+  - jemoji
 
 # Conversion
 markdown:    kramdown
@@ -69,4 +70,3 @@ kramdown:
     coderay_css:               style
 
 include: ['_pages']
-
