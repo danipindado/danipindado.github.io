@@ -41,6 +41,7 @@ Just in case you don't read the user guide, just a couple of hints:
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
 
-Last, but not least, I offer ads and affiliate links on the site. These links help me get more gadgets that I can show you here :) . And remember that you will still pay the same price for the product. 
+You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
 
+Happy swimming,
 Cheerio!
