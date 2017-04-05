@@ -27,6 +27,10 @@ Other than that, I have fixed a bug which in certain circumstances might trigger
 
 And I have done a very minor change to the length detection algorithm, to make it even more robust. 
 
-Happy swimming!
+Feel free to use the comment section below to ask any questions. 
+Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
 
-Cheerio!
+You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
+
+Happy swimming!
+Cheerio
