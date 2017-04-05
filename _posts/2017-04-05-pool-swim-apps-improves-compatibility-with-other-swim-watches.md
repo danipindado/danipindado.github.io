@@ -4,7 +4,7 @@ date: '2017-04-05 04:10 +0200'
 ads: true
 comments: true
 lead_text: title
-published: false
+published: true
 title: Pool swim apps improves compatibility with other swim watches
 tags: garmin apps connectiq
 categories: apps
@@ -26,4 +26,3 @@ This is a summary of the changes in this version:
 Happy swimming!
 
 Cheerio
-
