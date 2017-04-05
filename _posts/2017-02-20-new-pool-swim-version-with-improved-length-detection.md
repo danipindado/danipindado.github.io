@@ -22,6 +22,10 @@ I have introduced improvements in the memory management. And especially in the m
 
 I have removed the stroke counting. It was not working very well. And it was consuming lot of memory because of some big arrays. Now that I can acquire data @10Hz, it should be much easier to fine tune the stroke counting algorithm. Until now I was just guesstimating. For this I need data! I would be very glad if some of you, especially those with better swimming skills, could provide a fit file (with the "debug" setting active).
 
-Happy swimming!
+Feel free to use the comment section below to ask any questions. 
+Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
 
+You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
+
+Happy swimming!
 Cheerio
