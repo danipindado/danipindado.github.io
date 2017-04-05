@@ -5,7 +5,7 @@ ads: true
 comments: true
 lead_text: title
 published: true
-title: Pool swim apps improves compatibility with other swim watches
+title: Pool swim app with improved compatibility with other swim watches
 tags: garmin apps connectiq
 categories: apps
 ---
