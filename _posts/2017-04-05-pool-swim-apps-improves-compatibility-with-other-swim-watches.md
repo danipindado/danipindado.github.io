@@ -28,5 +28,5 @@ Remember that you don't need to create a Disqus account in order to comment: jus
 
 You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
 
-Happy swimming!
+Happy exercising!
 Cheerio
