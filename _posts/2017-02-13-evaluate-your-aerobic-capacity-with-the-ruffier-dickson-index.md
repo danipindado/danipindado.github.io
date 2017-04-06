@@ -5,6 +5,7 @@ ads: true
 comments: true
 published: true
 title: Evaluate your aerobic capacity with the Ruffier-Dickson index
+lead_text: title
 ---
 The [Ruffier-Dickson index](https://es.wikipedia.org/wiki/Test_de_Ruffier#Variante:_.C3.8Dndice_de_Ruffier-Dickson){:target="_blank"} is a test to measure aerobic endurance, and thus a person's fitness level.
 
@@ -77,6 +78,10 @@ What I like about the test: It is fast and easy. You can repeat the test every 4
 In the end, if you are beginning to exercise and want to know if you are fit enough for the task, talk to a doctor. 
 <div>But, if you are already excercising, checking once in a while you `I_d` can give you an indication on how your fitness level evolves. </div>
 
-As usual feel free to contact me for questions and requests. 
+Feel free to use the comment section below to ask any questions. 
+Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
 
-Cheerio!
+You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
+
+Happy exercising!
+Cheerio
