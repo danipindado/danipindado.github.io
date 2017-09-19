@@ -1,7 +1,7 @@
 ---
 layout: inner
 date: '2017-02-20 22:03 +0100'
-ads: true
+ads: false
 comments: true
 published: true
 title: A note on pool swim activity data in Garmin Connect
