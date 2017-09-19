@@ -72,8 +72,6 @@ Pool Swim app was featured this weekend in [La bolsa del corredor](http://www.sp
 
 Remember that I make the app for free, it is just a hobby which somehow it is taking more time than I expected at the beginning. 
 
-For any purchase using the amazon links in the site, i get a small tip back. And you still pay the same price. 
-
 That's all for now. I hope you enjoy using the app. 
 
 Cheerio!
