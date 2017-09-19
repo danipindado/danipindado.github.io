@@ -3,7 +3,7 @@ layout: inner
 date: '2017-02-10 00:09 +0100'
 published: true
 title: Pool Swim app v4.3 released
-ads: true
+ads: false
 comments: true
 lead_text: Imperial units are now supported. Heading calibration improved.
 tags: garmin apps connectiq

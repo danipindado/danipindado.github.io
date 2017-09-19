@@ -4,7 +4,7 @@ title: Garmin ConnectIQ Pool Swim App
 date: 'Sat Jan 21 2017 01:00:00 GMT+0100 (Central Europe Standard Time)'
 categories: apps
 tags: apps garmin connectiq
-ads: true
+ads: false
 comments: true
 lead_text: 'Track your pool swimming activities with your Garmin FR230, FR235 and FR630'
 published: true
@@ -41,7 +41,6 @@ Just in case you don't read the user guide, just a couple of hints:
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
 
-You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
 
 Happy swimming,
 Cheerio!

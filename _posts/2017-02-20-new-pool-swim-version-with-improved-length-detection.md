@@ -1,7 +1,7 @@
 ---
 layout: inner
 date: '2017-02-20 21:28 +0100'
-ads: true
+ads: false
 comments: true
 published: true
 title: New pool swim version with improved length detection
@@ -24,8 +24,6 @@ I have removed the stroke counting. It was not working very well. And it was con
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
-
-You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
 
 Happy swimming!
 Cheerio

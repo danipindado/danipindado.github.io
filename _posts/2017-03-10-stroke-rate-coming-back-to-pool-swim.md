@@ -1,7 +1,7 @@
 ---
 layout: inner
 date: '2017-03-10 21:33 +0100'
-ads: true
+ads: false
 comments: true
 lead_text: Improved stroke rate algorithm
 published: true
@@ -29,8 +29,6 @@ And I have done a very minor change to the length detection algorithm, to make i
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
-
-You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
 
 Happy swimming!
 Cheerio

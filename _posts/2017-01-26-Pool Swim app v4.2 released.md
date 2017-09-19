@@ -5,7 +5,7 @@ date: 'Thu Jan 26 2017 01:00:00 GMT+0100 (Central Europe Standard Time)'
 categories: apps
 tags: apps garmin connectiq
 comments: true
-ads: true
+ads: false
 lead_text: New UI for FR630
 published: true
 ---
@@ -42,6 +42,5 @@ I have been collecting accelerometer data. So I will begin to work in autopause 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
 
-Last, but not least, I offer ads and affiliate links on the site. These links help me get more gadgets that I can show you here :) . And remember that you will still pay the same price for the product. 
 
 Cheerio!

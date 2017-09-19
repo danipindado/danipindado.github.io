@@ -46,7 +46,7 @@ edit the activity following the steps below:
 <img src="{{site.baseurl}}/images/distance_5.png" width="100%">
  
 
-Once you have set the proper distance, you’ll see that native pace field will be also updated.
+Once you have set the proper distance, you'll see that native pace field will be also updated.
 
 <img src="{{site.baseurl}}/images/distance_6.png" width="100%">
 
@@ -54,14 +54,14 @@ Once you have set the proper distance, you’ll see that native pace field will 
 ## Replacing native fields in Garmin connect (gpx method)
 You need to have a sporttracks account for this, which is already synced with your Garmin account.
 In [www.sportracks.mobi]([www.sportracks.mobi){:target="_blank"}, browse the activity. 
-Select “export” and “gpx”. 
+Select "export" and "gpx". 
 A gpx file containing the activity will be downloaded.
 
 <img src="{{site.baseurl}}/images/gpx_1.png" width="100%">
  
 
 Upload the gpx file generated in previous step into Garmin Connect. 
-In order to do this, go to “my activities”, “manual upload”. Select the file and upload it.
+In order to do this, go to "my activities", "manual upload". Select the file and upload it.
 
 <img src="{{site.baseurl}}/images/gpx_2.png" width="100%">
 
@@ -73,8 +73,6 @@ This time, native fields show the correct information, because sportracks overro
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
-
-You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
 
 Happy swimming!
 Cheerio

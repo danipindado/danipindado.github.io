@@ -1,7 +1,7 @@
 ---
 layout: inner
 date: '2017-02-13 05:21 +0100'
-ads: true
+ads: false
 comments: true
 published: true
 title: Evaluate your aerobic capacity with the Ruffier-Dickson index
@@ -80,8 +80,6 @@ In the end, if you are beginning to exercise and want to know if you are fit eno
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
-
-You can use the paypal donate button and the affiliate links on the site to support my developing activities. Thank you in advance!
 
 Happy exercising!
 Cheerio

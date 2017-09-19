@@ -5,7 +5,7 @@ published: true
 title: Garmin Sunset/Sunrise App
 categories: apps
 tags: garmin apps connectiq
-ads: true
+ads: false
 comments: true
 lead_text: >-
   This is a Garmin data field showing how long you have before next sunrise or
@@ -48,7 +48,5 @@ In the configuration menu you will find these three settings:
 
 Feel free to use the comment section below to ask any questions. 
 Remember that you don't need to create a Disqus account in order to comment: just write your comment, click on the "Name" field below, and the option "I'd rather post as a guest" will pop up.
-
-Last, but not least, I offer ads and affiliate links on the site. These links help me get more gadgets that I can show you here :) . And remember that you will still pay the same price for the product. 
 
 Cheerio!
